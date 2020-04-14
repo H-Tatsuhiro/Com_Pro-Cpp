@@ -1,2 +1,2 @@
-# Com_Pro-C-
+# Com_Pro-Cpp
 Competitive Programming (by C++)
