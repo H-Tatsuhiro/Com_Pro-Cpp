@@ -19,13 +19,21 @@
       "id": "abc160_b",
       "label": "B",
       "title": "Golden Coins",
-      "url": "https://atcoder.jp/contests/abc160/tasks/abc160_b"
+      "url": "https://atcoder.jp/contests/abc160/tasks/abc160_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc160_c",
       "label": "C",
       "title": "Traveling Salesman around Lake",
-      "url": "https://atcoder.jp/contests/abc160/tasks/abc160_c"
+      "url": "https://atcoder.jp/contests/abc160/tasks/abc160_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc160_d",

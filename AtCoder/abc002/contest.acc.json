@@ -19,13 +19,20 @@
       "id": "abc002_2",
       "label": "B",
       "title": "罠",
-      "url": "https://atcoder.jp/contests/abc002/tasks/abc002_2"
+      "url": "https://atcoder.jp/contests/abc002/tasks/abc002_2",
+      "directory": {
+        "path": "b"
+      }
     },
     {
       "id": "abc002_3",
       "label": "C",
       "title": "直訴",
-      "url": "https://atcoder.jp/contests/abc002/tasks/abc002_3"
+      "url": "https://atcoder.jp/contests/abc002/tasks/abc002_3",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc002_4",
