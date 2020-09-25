@@ -1,13 +1,6 @@
 int sed(int N) {
-  int a = N;
-  int c = 0;
-  bool b = true;
-  while(b){
-    if (a == 0) {
-      b = false;
-    }
-    c += a % 10;
-    a /= 10;
-  }
-  return c;
+    string s = to_string(N);
+    int r = 0;
+    for (int i = 0; i < s.length(); i++) r += (int)(s[i] - 48);
+    return r;
 }

@@ -1,6 +1,6 @@
 /*
- *
- *
+ *  Author  : Tatsuhiro Hashimoto
+ *  Created :
  */
 
 #include <bits/stdc++.h>
@@ -11,9 +11,9 @@ using namespace std;
 typedef long long ll;
 typedef long double ld;
 typedef unsigned long long ull;
-#define iMAX 2147483647;
-#define lMAX 9223372036854775807;
-#define llMAX 18446744073709551615;
+#define ilMAX 2147483647;
+#define llMAX 9223372036854775807;
+#define ullMAX 18446744073709551615;
 #define SORT(v) sort((v).begin(), (v).end());
 #define REV(v) reverse((v).begin(), (v).end());
 static inline ll gcd(ll a, ll b) { return a % b == 0 ? b : gcd(b, a % b);}
