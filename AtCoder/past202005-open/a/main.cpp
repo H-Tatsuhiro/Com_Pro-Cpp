@@ -20,4 +20,3 @@ int main() {
         else printf("%s\n", "different");
     }
 }
-
