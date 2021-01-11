@@ -5,7 +5,7 @@
 #include <iostream>
 #include <boost/multiprecision/cpp_int.hpp>
 using namespace std;
-
+using namespace boost::multiprecision;
 cpp_int Combination(int n, int r) {
     cpp_int u = 1, d = 1;
     for (int i = 2; i <= n; i++) {
