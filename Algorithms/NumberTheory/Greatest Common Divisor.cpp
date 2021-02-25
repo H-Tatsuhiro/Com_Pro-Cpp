@@ -1,8 +1,8 @@
-unsigned long long gcd(unsigned long long a, unsigned long long b) {
+template<class T> T gcd(T a, T b) {
   if(a < b) {
     return gcd(b, a);
   }
-  unsigned long long r;
+  T r;
   while ((r=a%b)) {
     a = b;
     b = r;
