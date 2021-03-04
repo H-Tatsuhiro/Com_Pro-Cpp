@@ -1,4 +1,4 @@
-int my_mid(int x, int y, int z) {
+template<class T> T my_mid(T x, T y, T z) {
   if ((x > y && x < z) || (x < y && x > z)) {
     return x;
   }

@@ -1,4 +1,4 @@
-int my_min(int x, int y, int z) {
+template<class T> T my_min(T x, T y, T z) {
   if (x < y && x < z) {
     return x;
   }

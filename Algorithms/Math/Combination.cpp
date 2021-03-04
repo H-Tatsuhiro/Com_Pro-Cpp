@@ -2,8 +2,6 @@
 // Created by Tatsuhiro Hashimoto on 2020/12/25.
 //
 
-#include <iostream>
-using namespace std;
 template<class T> T Combination(T n, T r) {
     T u = 1, d = 1;
     for (int i = 2; i <= n; i++) {

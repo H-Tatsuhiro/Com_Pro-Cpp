@@ -1,4 +1,4 @@
-int my_max(int x, int y, int z) {
+template<class T> T my_max(T x, T y, T z) {
   if (x > y && x > z) {
     return x;
   }

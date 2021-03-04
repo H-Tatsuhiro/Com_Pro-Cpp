@@ -1,6 +1,6 @@
-int sed(int N) {
+template<class T> T sed(T N) {
     string s = to_string(N);
-    int r = 0;
-    for (int i = 0; i < s.length(); i++) r += (int)(s[i] - 48);
+    T r = 0;
+    for (int i = 0; i < s.length(); i++) r += (T)(s[i] - 48);
     return r;
 }
