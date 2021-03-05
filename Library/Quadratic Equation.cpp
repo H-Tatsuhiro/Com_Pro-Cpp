@@ -1,6 +1,6 @@
 // include <cmath/limits>
-void QE(int x, int y, int z) {
-  double A, B, C, E, D;
+void QE(long long int x, long long int y, long long int z) {
+  long double A, B, C, E, D;
   D = (y * y) - (4 * x * z);
   if (D > 0) {
     A = (-y + /*sqrt*/(D)) / (2 * x);
