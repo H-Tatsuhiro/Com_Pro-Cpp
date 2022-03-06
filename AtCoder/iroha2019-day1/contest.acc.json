@@ -1,0 +1,101 @@
+{
+  "contest": {
+    "id": "iroha2019-day1",
+    "title": "いろはちゃんコンテスト Day1",
+    "url": "https://atcoder.jp/contests/iroha2019-day1"
+  },
+  "tasks": [
+    {
+      "id": "iroha2019_day1_a",
+      "label": "A",
+      "title": "一問目",
+      "url": "https://atcoder.jp/contests/iroha2019-day1/tasks/iroha2019_day1_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "iroha2019_day1_b",
+      "label": "B",
+      "title": "ローリング・老人と海",
+      "url": "https://atcoder.jp/contests/iroha2019-day1/tasks/iroha2019_day1_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "iroha2019_day1_c",
+      "label": "C",
+      "title": "Halcyon",
+      "url": "https://atcoder.jp/contests/iroha2019-day1/tasks/iroha2019_day1_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "iroha2019_day1_d",
+      "label": "D",
+      "title": "肉と肉のぶつかり合い",
+      "url": "https://atcoder.jp/contests/iroha2019-day1/tasks/iroha2019_day1_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "iroha2019_day1_e",
+      "label": "E",
+      "title": "放課後",
+      "url": "https://atcoder.jp/contests/iroha2019-day1/tasks/iroha2019_day1_e"
+    },
+    {
+      "id": "iroha2019_day1_f",
+      "label": "F",
+      "title": "Head of The Dragon  ",
+      "url": "https://atcoder.jp/contests/iroha2019-day1/tasks/iroha2019_day1_f"
+    },
+    {
+      "id": "iroha2019_day1_g",
+      "label": "G",
+      "title": "友達以上恋人以下",
+      "url": "https://atcoder.jp/contests/iroha2019-day1/tasks/iroha2019_day1_g"
+    },
+    {
+      "id": "iroha2019_day1_h",
+      "label": "H",
+      "title": "ちらし寿司",
+      "url": "https://atcoder.jp/contests/iroha2019-day1/tasks/iroha2019_day1_h"
+    },
+    {
+      "id": "iroha2019_day1_i",
+      "label": "I",
+      "title": "リスのお仕事",
+      "url": "https://atcoder.jp/contests/iroha2019-day1/tasks/iroha2019_day1_i"
+    },
+    {
+      "id": "iroha2019_day1_j",
+      "label": "J",
+      "title": "ヌクレオチド",
+      "url": "https://atcoder.jp/contests/iroha2019-day1/tasks/iroha2019_day1_j"
+    },
+    {
+      "id": "iroha2019_day1_k",
+      "label": "K",
+      "title": "ルーレット",
+      "url": "https://atcoder.jp/contests/iroha2019-day1/tasks/iroha2019_day1_k"
+    },
+    {
+      "id": "iroha2019_day1_l",
+      "label": "L",
+      "title": "をあ ぷろぶれむ",
+      "url": "https://atcoder.jp/contests/iroha2019-day1/tasks/iroha2019_day1_l"
+    }
+  ]
+}

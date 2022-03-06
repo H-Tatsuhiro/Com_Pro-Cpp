@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": "code-festival-2015-final-open",
+    "title": "CODE FESTIVAL 2015 決勝（オープンコンテスト）",
+    "url": "https://atcoder.jp/contests/code-festival-2015-final-open"
+  },
+  "tasks": [
+    {
+      "id": "codefestival_2015_final_a",
+      "label": "A",
+      "title": "コード川柳",
+      "url": "https://atcoder.jp/contests/code-festival-2015-final-open/tasks/codefestival_2015_final_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "codefestival_2015_final_b",
+      "label": "B",
+      "title": "ダイスゲーム",
+      "url": "https://atcoder.jp/contests/code-festival-2015-final-open/tasks/codefestival_2015_final_b"
+    },
+    {
+      "id": "codefestival_2015_final_c",
+      "label": "C",
+      "title": "寿司タワー",
+      "url": "https://atcoder.jp/contests/code-festival-2015-final-open/tasks/codefestival_2015_final_c"
+    },
+    {
+      "id": "codefestival_2015_final_d",
+      "label": "D",
+      "title": "足ゲームII",
+      "url": "https://atcoder.jp/contests/code-festival-2015-final-open/tasks/codefestival_2015_final_d"
+    },
+    {
+      "id": "codefestival_2015_final_e",
+      "label": "E",
+      "title": "ショートコーディング",
+      "url": "https://atcoder.jp/contests/code-festival-2015-final-open/tasks/codefestival_2015_final_e"
+    },
+    {
+      "id": "codefestival_2015_final_f",
+      "label": "F",
+      "title": "歩くピアニスト",
+      "url": "https://atcoder.jp/contests/code-festival-2015-final-open/tasks/codefestival_2015_final_f"
+    },
+    {
+      "id": "codefestival_2015_final_g",
+      "label": "G",
+      "title": "スタンプラリー",
+      "url": "https://atcoder.jp/contests/code-festival-2015-final-open/tasks/codefestival_2015_final_g"
+    },
+    {
+      "id": "codefestival_2015_final_h",
+      "label": "H",
+      "title": "焼肉の達人",
+      "url": "https://atcoder.jp/contests/code-festival-2015-final-open/tasks/codefestival_2015_final_h"
+    },
+    {
+      "id": "codefestival_2015_final_i",
+      "label": "I",
+      "title": "風船ツリー",
+      "url": "https://atcoder.jp/contests/code-festival-2015-final-open/tasks/codefestival_2015_final_i"
+    },
+    {
+      "id": "codefestival_2015_final_j",
+      "label": "J",
+      "title": "N個のバケツ",
+      "url": "https://atcoder.jp/contests/code-festival-2015-final-open/tasks/codefestival_2015_final_j"
+    }
+  ]
+}

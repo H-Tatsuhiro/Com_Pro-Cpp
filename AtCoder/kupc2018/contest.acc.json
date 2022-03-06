@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": "kupc2018",
+    "title": "Kyoto University Programming Contest 2018",
+    "url": "https://atcoder.jp/contests/kupc2018"
+  },
+  "tasks": [
+    {
+      "id": "kupc2018_a",
+      "label": "A",
+      "title": "立て看板",
+      "url": "https://atcoder.jp/contests/kupc2018/tasks/kupc2018_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "kupc2018_b",
+      "label": "B",
+      "title": "弾幕ゲーム",
+      "url": "https://atcoder.jp/contests/kupc2018/tasks/kupc2018_b"
+    },
+    {
+      "id": "kupc2018_c",
+      "label": "C",
+      "title": "七目",
+      "url": "https://atcoder.jp/contests/kupc2018/tasks/kupc2018_c"
+    },
+    {
+      "id": "kupc2018_d",
+      "label": "D",
+      "title": "ロストテクノロジー",
+      "url": "https://atcoder.jp/contests/kupc2018/tasks/kupc2018_d"
+    },
+    {
+      "id": "kupc2018_e",
+      "label": "E",
+      "title": "転倒数",
+      "url": "https://atcoder.jp/contests/kupc2018/tasks/kupc2018_e"
+    },
+    {
+      "id": "kupc2018_f",
+      "label": "F",
+      "title": "カード集め",
+      "url": "https://atcoder.jp/contests/kupc2018/tasks/kupc2018_f"
+    },
+    {
+      "id": "kupc2018_g",
+      "label": "G",
+      "title": "数列を構成する問題",
+      "url": "https://atcoder.jp/contests/kupc2018/tasks/kupc2018_g"
+    },
+    {
+      "id": "kupc2018_h",
+      "label": "H",
+      "title": "カラフル数列",
+      "url": "https://atcoder.jp/contests/kupc2018/tasks/kupc2018_h"
+    },
+    {
+      "id": "kupc2018_i",
+      "label": "I",
+      "title": "League of Kyoto",
+      "url": "https://atcoder.jp/contests/kupc2018/tasks/kupc2018_i"
+    },
+    {
+      "id": "kupc2018_j",
+      "label": "J",
+      "title": "ニム?",
+      "url": "https://atcoder.jp/contests/kupc2018/tasks/kupc2018_j"
+    },
+    {
+      "id": "kupc2018_k",
+      "label": "K",
+      "title": "光と闇の調和",
+      "url": "https://atcoder.jp/contests/kupc2018/tasks/kupc2018_k"
+    },
+    {
+      "id": "kupc2018_l",
+      "label": "L",
+      "title": "凸包が映し出される平面",
+      "url": "https://atcoder.jp/contests/kupc2018/tasks/kupc2018_l"
+    },
+    {
+      "id": "kupc2018_m",
+      "label": "M",
+      "title": "整数と根付き木",
+      "url": "https://atcoder.jp/contests/kupc2018/tasks/kupc2018_m"
+    }
+  ]
+}

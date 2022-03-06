@@ -1,0 +1,67 @@
+{
+  "contest": {
+    "id": "pakencamp-2019-day4",
+    "title": "パ研合宿2019　第4日「Teamwork」",
+    "url": "https://atcoder.jp/contests/pakencamp-2019-day4"
+  },
+  "tasks": [
+    {
+      "id": "pakencamp_2019_day4_a",
+      "label": "A",
+      "title": "原稿用紙",
+      "url": "https://atcoder.jp/contests/pakencamp-2019-day4/tasks/pakencamp_2019_day4_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "pakencamp_2019_day4_b",
+      "label": "B",
+      "title": "情報の伝達",
+      "url": "https://atcoder.jp/contests/pakencamp-2019-day4/tasks/pakencamp_2019_day4_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "pakencamp_2019_day4_c",
+      "label": "C",
+      "title": "罰ゲーム",
+      "url": "https://atcoder.jp/contests/pakencamp-2019-day4/tasks/pakencamp_2019_day4_c"
+    },
+    {
+      "id": "pakencamp_2019_day4_d",
+      "label": "D",
+      "title": "リミックスジュース",
+      "url": "https://atcoder.jp/contests/pakencamp-2019-day4/tasks/pakencamp_2019_day4_d"
+    },
+    {
+      "id": "pakencamp_2019_day4_e",
+      "label": "E",
+      "title": "IOI のために",
+      "url": "https://atcoder.jp/contests/pakencamp-2019-day4/tasks/pakencamp_2019_day4_e"
+    },
+    {
+      "id": "pakencamp_2019_day4_f",
+      "label": "F",
+      "title": "イーハチはやる",
+      "url": "https://atcoder.jp/contests/pakencamp-2019-day4/tasks/pakencamp_2019_day4_f"
+    },
+    {
+      "id": "pakencamp_2019_day4_g",
+      "label": "G",
+      "title": "三つの条件",
+      "url": "https://atcoder.jp/contests/pakencamp-2019-day4/tasks/pakencamp_2019_day4_g"
+    },
+    {
+      "id": "pakencamp_2019_day4_h",
+      "label": "H",
+      "title": "板の重なり",
+      "url": "https://atcoder.jp/contests/pakencamp-2019-day4/tasks/pakencamp_2019_day4_h"
+    }
+  ]
+}

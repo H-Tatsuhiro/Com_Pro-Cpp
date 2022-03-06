@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "ddcc2016-qual",
+    "title": "DISCO presents ディスカバリーチャンネル コードコンテスト2016 予選",
+    "url": "https://atcoder.jp/contests/ddcc2016-qual"
+  },
+  "tasks": [
+    {
+      "id": "ddcc_2016_qual_a",
+      "label": "A",
+      "title": "SDカード",
+      "url": "https://atcoder.jp/contests/ddcc2016-qual/tasks/ddcc_2016_qual_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "ddcc_2016_qual_b",
+      "label": "B",
+      "title": "ステップカット",
+      "url": "https://atcoder.jp/contests/ddcc2016-qual/tasks/ddcc_2016_qual_b"
+    },
+    {
+      "id": "ddcc_2016_qual_c",
+      "label": "C",
+      "title": "ロト2",
+      "url": "https://atcoder.jp/contests/ddcc2016-qual/tasks/ddcc_2016_qual_c"
+    },
+    {
+      "id": "ddcc_2016_qual_d",
+      "label": "D",
+      "title": "道路網",
+      "url": "https://atcoder.jp/contests/ddcc2016-qual/tasks/ddcc_2016_qual_d"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "contest": {
+    "id": "fuka5",
+    "title": "ふか杯 5th Contest",
+    "url": "https://atcoder.jp/contests/fuka5"
+  },
+  "tasks": [
+    {
+      "id": "fuka_credit",
+      "label": "A",
+      "title": "単位",
+      "url": "https://atcoder.jp/contests/fuka5/tasks/fuka_credit",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "fuka_insider",
+      "label": "B",
+      "title": "すべては1になる",
+      "url": "https://atcoder.jp/contests/fuka5/tasks/fuka_insider"
+    },
+    {
+      "id": "fuka_liquid",
+      "label": "C",
+      "title": "流れ",
+      "url": "https://atcoder.jp/contests/fuka5/tasks/fuka_liquid"
+    },
+    {
+      "id": "fuka_bintree",
+      "label": "D",
+      "title": "Bintree",
+      "url": "https://atcoder.jp/contests/fuka5/tasks/fuka_bintree"
+    },
+    {
+      "id": "fuka_sugoroku",
+      "label": "E",
+      "title": "すごろく",
+      "url": "https://atcoder.jp/contests/fuka5/tasks/fuka_sugoroku"
+    },
+    {
+      "id": "fuka_iru",
+      "label": "F",
+      "title": "IRU vs SAKI",
+      "url": "https://atcoder.jp/contests/fuka5/tasks/fuka_iru"
+    },
+    {
+      "id": "fuka_graphcut",
+      "label": "G",
+      "title": "Graph Cut",
+      "url": "https://atcoder.jp/contests/fuka5/tasks/fuka_graphcut"
+    }
+  ]
+}

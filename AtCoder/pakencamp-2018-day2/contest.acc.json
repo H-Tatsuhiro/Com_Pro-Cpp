@@ -1,0 +1,62 @@
+{
+  "contest": {
+    "id": "pakencamp-2018-day2",
+    "title": "パ研合宿コンペティション 2日目",
+    "url": "https://atcoder.jp/contests/pakencamp-2018-day2"
+  },
+  "tasks": [
+    {
+      "id": "pakencamp_2018_day2_a",
+      "label": "A",
+      "title": "ひふみ　(Hihumi)",
+      "url": "https://atcoder.jp/contests/pakencamp-2018-day2/tasks/pakencamp_2018_day2_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "pakencamp_2018_day2_b",
+      "label": "B",
+      "title": "チーム戦　(Teamwork)",
+      "url": "https://atcoder.jp/contests/pakencamp-2018-day2/tasks/pakencamp_2018_day2_b"
+    },
+    {
+      "id": "pakencamp_2018_day2_c",
+      "label": "C",
+      "title": "クリスマス飾り（Christmas Decorations）",
+      "url": "https://atcoder.jp/contests/pakencamp-2018-day2/tasks/pakencamp_2018_day2_c"
+    },
+    {
+      "id": "pakencamp_2018_day2_d",
+      "label": "D",
+      "title": "一次元オセロ　(1D Othello)",
+      "url": "https://atcoder.jp/contests/pakencamp-2018-day2/tasks/pakencamp_2018_day2_d"
+    },
+    {
+      "id": "pakencamp_2018_day2_e",
+      "label": "E",
+      "title": "クリスマスツリー　(Tree Coloring)",
+      "url": "https://atcoder.jp/contests/pakencamp-2018-day2/tasks/pakencamp_2018_day2_e"
+    },
+    {
+      "id": "pakencamp_2018_day2_f",
+      "label": "F",
+      "title": "同一経路　(Samepath)",
+      "url": "https://atcoder.jp/contests/pakencamp-2018-day2/tasks/pakencamp_2018_day2_f"
+    },
+    {
+      "id": "pakencamp_2018_day2_g",
+      "label": "G",
+      "title": "グランド・グラフ　(Grand Graph)",
+      "url": "https://atcoder.jp/contests/pakencamp-2018-day2/tasks/pakencamp_2018_day2_g"
+    },
+    {
+      "id": "pakencamp_2018_day2_h",
+      "label": "H",
+      "title": "プレゼント配り　(Santa Claus' Track)",
+      "url": "https://atcoder.jp/contests/pakencamp-2018-day2/tasks/pakencamp_2018_day2_h"
+    }
+  ]
+}

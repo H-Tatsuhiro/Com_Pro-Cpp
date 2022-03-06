@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": "code-festival-2018-quala",
+    "title": "CODE FESTIVAL 2018 qual A",
+    "url": "https://atcoder.jp/contests/code-festival-2018-quala"
+  },
+  "tasks": [
+    {
+      "id": "code_festival_2018_quala_a",
+      "label": "A",
+      "title": "配点",
+      "url": "https://atcoder.jp/contests/code-festival-2018-quala/tasks/code_festival_2018_quala_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "code_festival_2018_quala_b",
+      "label": "B",
+      "title": "みかん",
+      "url": "https://atcoder.jp/contests/code-festival-2018-quala/tasks/code_festival_2018_quala_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "code_festival_2018_quala_c",
+      "label": "C",
+      "title": "半分",
+      "url": "https://atcoder.jp/contests/code-festival-2018-quala/tasks/code_festival_2018_quala_c"
+    },
+    {
+      "id": "code_festival_2018_quala_d",
+      "label": "D",
+      "title": "通勤",
+      "url": "https://atcoder.jp/contests/code-festival-2018-quala/tasks/code_festival_2018_quala_d"
+    },
+    {
+      "id": "code_festival_2018_quala_e",
+      "label": "E",
+      "title": "オレンジとみかん",
+      "url": "https://atcoder.jp/contests/code-festival-2018-quala/tasks/code_festival_2018_quala_e"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "contest": {
+    "id": "joi2009yo",
+    "title": "第８回日本情報オリンピック 予選（オンライン）",
+    "url": "https://atcoder.jp/contests/joi2009yo"
+  },
+  "tasks": [
+    {
+      "id": "joi2009yo_a",
+      "label": "A",
+      "title": "タイムカード",
+      "url": "https://atcoder.jp/contests/joi2009yo/tasks/joi2009yo_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "joi2009yo_b",
+      "label": "B",
+      "title": "コンテスト",
+      "url": "https://atcoder.jp/contests/joi2009yo/tasks/joi2009yo_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "joi2009yo_c",
+      "label": "C",
+      "title": "連鎖",
+      "url": "https://atcoder.jp/contests/joi2009yo/tasks/joi2009yo_c"
+    },
+    {
+      "id": "joi2009yo_d",
+      "label": "D",
+      "title": "薄氷渡り",
+      "url": "https://atcoder.jp/contests/joi2009yo/tasks/joi2009yo_d"
+    },
+    {
+      "id": "joi2009yo_e",
+      "label": "E",
+      "title": "シャッフル",
+      "url": "https://atcoder.jp/contests/joi2009yo/tasks/joi2009yo_e"
+    },
+    {
+      "id": "joi2009yo_f",
+      "label": "F",
+      "title": "ビンゴ",
+      "url": "https://atcoder.jp/contests/joi2009yo/tasks/joi2009yo_f"
+    }
+  ]
+}

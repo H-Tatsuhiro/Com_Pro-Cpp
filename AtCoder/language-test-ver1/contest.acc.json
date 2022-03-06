@@ -1,0 +1,61 @@
+{
+  "contest": {
+    "id": "language-test-ver1",
+    "title": "Language Test ver1",
+    "url": "https://atcoder.jp/contests/language-test-ver1"
+  },
+  "tasks": [
+    {
+      "id": "test001_a",
+      "label": "A",
+      "title": "センター採点",
+      "url": "https://atcoder.jp/contests/language-test-ver1/tasks/test001_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "test001_b",
+      "label": "B",
+      "title": "帰ってきた器物損壊！高橋君",
+      "url": "https://atcoder.jp/contests/language-test-ver1/tasks/test001_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "test001_c",
+      "label": "C",
+      "title": "おとぎの国の高橋君",
+      "url": "https://atcoder.jp/contests/language-test-ver1/tasks/test001_c"
+    },
+    {
+      "id": "test001_d",
+      "label": "D",
+      "title": "超大型連休",
+      "url": "https://atcoder.jp/contests/language-test-ver1/tasks/test001_d"
+    },
+    {
+      "id": "test001_e",
+      "label": "E",
+      "title": "平均値太郎の憂鬱",
+      "url": "https://atcoder.jp/contests/language-test-ver1/tasks/test001_e"
+    },
+    {
+      "id": "test001_f",
+      "label": "F",
+      "title": "THE☆たこ焼き祭り2012",
+      "url": "https://atcoder.jp/contests/language-test-ver1/tasks/test001_f"
+    },
+    {
+      "id": "test001_g",
+      "label": "G",
+      "title": "アルファベット探し",
+      "url": "https://atcoder.jp/contests/language-test-ver1/tasks/test001_g"
+    }
+  ]
+}

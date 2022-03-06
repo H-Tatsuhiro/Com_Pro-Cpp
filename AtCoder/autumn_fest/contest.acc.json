@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": "autumn_fest",
+    "title": "Autumn Fest 2012",
+    "url": "https://atcoder.jp/contests/autumn_fest"
+  },
+  "tasks": [
+    {
+      "id": "autumn_fest_01",
+      "label": "A",
+      "title": "Irregular Contest",
+      "url": "https://atcoder.jp/contests/autumn_fest/tasks/autumn_fest_01",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "autumn_fest_02",
+      "label": "B",
+      "title": "3Match",
+      "url": "https://atcoder.jp/contests/autumn_fest/tasks/autumn_fest_02"
+    },
+    {
+      "id": "autumn_fest_03",
+      "label": "C",
+      "title": "Cards",
+      "url": "https://atcoder.jp/contests/autumn_fest/tasks/autumn_fest_03"
+    },
+    {
+      "id": "autumn_fest_04",
+      "label": "D",
+      "title": "Don't Think Seriously!",
+      "url": "https://atcoder.jp/contests/autumn_fest/tasks/autumn_fest_04"
+    },
+    {
+      "id": "autumn_fest_05",
+      "label": "E",
+      "title": "Be Together",
+      "url": "https://atcoder.jp/contests/autumn_fest/tasks/autumn_fest_05"
+    },
+    {
+      "id": "autumn_fest_06",
+      "label": "F",
+      "title": "Vinculum",
+      "url": "https://atcoder.jp/contests/autumn_fest/tasks/autumn_fest_06"
+    },
+    {
+      "id": "autumn_fest_07",
+      "label": "G",
+      "title": "Bit Map",
+      "url": "https://atcoder.jp/contests/autumn_fest/tasks/autumn_fest_07"
+    },
+    {
+      "id": "autumn_fest_08",
+      "label": "H",
+      "title": "U・N・C・O",
+      "url": "https://atcoder.jp/contests/autumn_fest/tasks/autumn_fest_08"
+    },
+    {
+      "id": "autumn_fest_09",
+      "label": "I",
+      "title": "Pyramid",
+      "url": "https://atcoder.jp/contests/autumn_fest/tasks/autumn_fest_09"
+    },
+    {
+      "id": "autumn_fest_10",
+      "label": "J",
+      "title": "Ninja of Train",
+      "url": "https://atcoder.jp/contests/autumn_fest/tasks/autumn_fest_10"
+    },
+    {
+      "id": "autumn_fest_11",
+      "label": "K",
+      "title": "Batch Style Mastermind",
+      "url": "https://atcoder.jp/contests/autumn_fest/tasks/autumn_fest_11"
+    }
+  ]
+}

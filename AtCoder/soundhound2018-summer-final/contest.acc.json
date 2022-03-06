@@ -1,0 +1,44 @@
+{
+  "contest": {
+    "id": "soundhound2018-summer-final",
+    "title": "SoundHound Programming Contest 2018 Masters Tournament 本戦",
+    "url": "https://atcoder.jp/contests/soundhound2018-summer-final"
+  },
+  "tasks": [
+    {
+      "id": "soundhound2018_summer_final_a",
+      "label": "A",
+      "title": "Feel the  Beat",
+      "url": "https://atcoder.jp/contests/soundhound2018-summer-final/tasks/soundhound2018_summer_final_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "soundhound2018_summer_final_b",
+      "label": "B",
+      "title": "Neutralize",
+      "url": "https://atcoder.jp/contests/soundhound2018-summer-final/tasks/soundhound2018_summer_final_b"
+    },
+    {
+      "id": "soundhound2018_summer_final_c",
+      "label": "C",
+      "title": "Not Too Close",
+      "url": "https://atcoder.jp/contests/soundhound2018-summer-final/tasks/soundhound2018_summer_final_c"
+    },
+    {
+      "id": "soundhound2018_summer_final_d",
+      "label": "D",
+      "title": "Propagating Edges",
+      "url": "https://atcoder.jp/contests/soundhound2018-summer-final/tasks/soundhound2018_summer_final_d"
+    },
+    {
+      "id": "soundhound2018_summer_final_e",
+      "label": "E",
+      "title": "Hash Swapping",
+      "url": "https://atcoder.jp/contests/soundhound2018-summer-final/tasks/soundhound2018_summer_final_e"
+    }
+  ]
+}

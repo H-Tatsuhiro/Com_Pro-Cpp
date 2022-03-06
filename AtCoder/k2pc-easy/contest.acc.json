@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": "k2pc-easy",
+    "title": "Kyuride Kagamiz Programming Contest (Easy)",
+    "url": "https://atcoder.jp/contests/k2pc-easy"
+  },
+  "tasks": [
+    {
+      "id": "k2pc001_e1",
+      "label": "A",
+      "title": "ハンバーガー(Hamburger)",
+      "url": "https://atcoder.jp/contests/k2pc-easy/tasks/k2pc001_e1",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "k2pc001_e2",
+      "label": "B",
+      "title": "ビットマニア(BITMANIA)",
+      "url": "https://atcoder.jp/contests/k2pc-easy/tasks/k2pc001_e2",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "k2pc001_e3",
+      "label": "C",
+      "title": "紅茶(Tea)",
+      "url": "https://atcoder.jp/contests/k2pc-easy/tasks/k2pc001_e3"
+    },
+    {
+      "id": "k2pc001_e4",
+      "label": "D",
+      "title": "虫歯(Cavity)",
+      "url": "https://atcoder.jp/contests/k2pc-easy/tasks/k2pc001_e4"
+    },
+    {
+      "id": "k2pc001_e5",
+      "label": "E",
+      "title": "お気に入りの数2(Favorite Number2)",
+      "url": "https://atcoder.jp/contests/k2pc-easy/tasks/k2pc001_e5"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "contest": {
+    "id": "tkppc",
+    "title": "技術室奥プログラミングコンテスト",
+    "url": "https://atcoder.jp/contests/tkppc"
+  },
+  "tasks": [
+    {
+      "id": "tkppc2015_a",
+      "label": "A",
+      "title": "足し算の宿題 (A + B Home work)",
+      "url": "https://atcoder.jp/contests/tkppc/tasks/tkppc2015_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "tkppc2015_b",
+      "label": "B",
+      "title": "金髪の少女 (Blonde girls)",
+      "url": "https://atcoder.jp/contests/tkppc/tasks/tkppc2015_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "tkppc2015_c",
+      "label": "C",
+      "title": "お姉ちゃんって呼んで (Call me sister)",
+      "url": "https://atcoder.jp/contests/tkppc/tasks/tkppc2015_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "tkppc2015_d",
+      "label": "D",
+      "title": "サポーター (Supporter)",
+      "url": "https://atcoder.jp/contests/tkppc/tasks/tkppc2015_d"
+    },
+    {
+      "id": "tkppc2015_e",
+      "label": "E",
+      "title": "不可視境界線 (The Invisible Borderline)",
+      "url": "https://atcoder.jp/contests/tkppc/tasks/tkppc2015_e"
+    },
+    {
+      "id": "tkppc2015_f",
+      "label": "F",
+      "title": "吹奏楽部 (Brass Band)",
+      "url": "https://atcoder.jp/contests/tkppc/tasks/tkppc2015_f"
+    },
+    {
+      "id": "tkppc2015_g",
+      "label": "G",
+      "title": "おおきなかずを作った (I made a huge number)",
+      "url": "https://atcoder.jp/contests/tkppc/tasks/tkppc2015_g"
+    },
+    {
+      "id": "tkppc2015_h",
+      "label": "H",
+      "title": "私、木になります (I become a tree)",
+      "url": "https://atcoder.jp/contests/tkppc/tasks/tkppc2015_h"
+    },
+    {
+      "id": "tkppc2015_i",
+      "label": "I",
+      "title": "重要証拠 (Important evidence)",
+      "url": "https://atcoder.jp/contests/tkppc/tasks/tkppc2015_i"
+    },
+    {
+      "id": "tkppc2015_j",
+      "label": "J",
+      "title": "仕事をしよう！ (Working!)",
+      "url": "https://atcoder.jp/contests/tkppc/tasks/tkppc2015_j"
+    }
+  ]
+}

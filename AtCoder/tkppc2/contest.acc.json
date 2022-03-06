@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": "tkppc2",
+    "title": "技術室奥プログラミングコンテスト#2",
+    "url": "https://atcoder.jp/contests/tkppc2"
+  },
+  "tasks": [
+    {
+      "id": "tkppc2016_a",
+      "label": "A",
+      "title": "入社（Join the Company）",
+      "url": "https://atcoder.jp/contests/tkppc2/tasks/tkppc2016_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "tkppc2016_b",
+      "label": "B",
+      "title": "書き換え（Rewrite）",
+      "url": "https://atcoder.jp/contests/tkppc2/tasks/tkppc2016_b"
+    },
+    {
+      "id": "tkppc2016_c",
+      "label": "C",
+      "title": "有給休暇（Paid Vacation）",
+      "url": "https://atcoder.jp/contests/tkppc2/tasks/tkppc2016_c"
+    },
+    {
+      "id": "tkppc2016_d",
+      "label": "D",
+      "title": "エンブレム（Emblem）",
+      "url": "https://atcoder.jp/contests/tkppc2/tasks/tkppc2016_d"
+    },
+    {
+      "id": "tkppc2016_e",
+      "label": "E",
+      "title": "歩くNPCたち（Walking NPCs）",
+      "url": "https://atcoder.jp/contests/tkppc2/tasks/tkppc2016_e"
+    },
+    {
+      "id": "tkppc2016_f",
+      "label": "F",
+      "title": "NPCの家 (NPC's House)",
+      "url": "https://atcoder.jp/contests/tkppc2/tasks/tkppc2016_f"
+    },
+    {
+      "id": "tkppc2016_g",
+      "label": "G",
+      "title": "貢物（Tribute）",
+      "url": "https://atcoder.jp/contests/tkppc2/tasks/tkppc2016_g"
+    },
+    {
+      "id": "tkppc2016_h",
+      "label": "H",
+      "title": "デバッグ（Debug）",
+      "url": "https://atcoder.jp/contests/tkppc2/tasks/tkppc2016_h"
+    },
+    {
+      "id": "tkppc2016_i",
+      "label": "I",
+      "title": "ボス（Boss）",
+      "url": "https://atcoder.jp/contests/tkppc2/tasks/tkppc2016_i"
+    },
+    {
+      "id": "tkppc2016_j",
+      "label": "J",
+      "title": "次のお仕事 (New Game)",
+      "url": "https://atcoder.jp/contests/tkppc2/tasks/tkppc2016_j"
+    }
+  ]
+}

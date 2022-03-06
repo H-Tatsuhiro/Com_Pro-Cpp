@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": "code-thanks-festival-2014-a-open",
+    "title": "code thanks festival 2014 A日程（オープンコンテスト）",
+    "url": "https://atcoder.jp/contests/code-thanks-festival-2014-a-open"
+  },
+  "tasks": [
+    {
+      "id": "code_thanks_festival_14_quala_a",
+      "label": "A",
+      "title": "カメツル算",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2014-a-open/tasks/code_thanks_festival_14_quala_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "code_thanks_festival_14_quala_b",
+      "label": "B",
+      "title": "バッジ",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2014-a-open/tasks/code_thanks_festival_14_quala_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "code_thanks_festival_14_quala_c",
+      "label": "C",
+      "title": "コンテスト",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2014-a-open/tasks/code_thanks_festival_14_quala_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "code_thanks_festival_14_quala_d",
+      "label": "D",
+      "title": "定期券",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2014-a-open/tasks/code_thanks_festival_14_quala_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "code_thanks_festival_14_quala_e",
+      "label": "E",
+      "title": "儀式",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2014-a-open/tasks/code_thanks_festival_14_quala_e"
+    },
+    {
+      "id": "code_thanks_festival_14_quala_f",
+      "label": "F",
+      "title": "順位表",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2014-a-open/tasks/code_thanks_festival_14_quala_f"
+    },
+    {
+      "id": "code_thanks_festival_14_quala_g",
+      "label": "G",
+      "title": "通勤電車と気分",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2014-a-open/tasks/code_thanks_festival_14_quala_g"
+    },
+    {
+      "id": "code_thanks_festival_14_quala_h",
+      "label": "H",
+      "title": "模様替え",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2014-a-open/tasks/code_thanks_festival_14_quala_h"
+    }
+  ]
+}

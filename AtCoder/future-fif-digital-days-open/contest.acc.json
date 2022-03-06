@@ -1,0 +1,42 @@
+{
+  "contest": {
+    "id": "future-fif-digital-days-open",
+    "title": "デジタルの日特別イベント「HACK TO THE FUTURE for Youth+」 open",
+    "url": "https://atcoder.jp/contests/future-fif-digital-days-open"
+  },
+  "tasks": [
+    {
+      "id": "future_fif_digital_days_open_a",
+      "label": "A",
+      "title": "future_fif_digital_days_open_a",
+      "url": "https://atcoder.jp/contests/future-fif-digital-days-open/tasks/future_fif_digital_days_open_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "future_fif_digital_days_open_b",
+      "label": "B",
+      "title": "future_fif_digital_days_open_b",
+      "url": "https://atcoder.jp/contests/future-fif-digital-days-open/tasks/future_fif_digital_days_open_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "future_fif_digital_days_open_c",
+      "label": "C",
+      "title": "future_fif_digital_days_open_c",
+      "url": "https://atcoder.jp/contests/future-fif-digital-days-open/tasks/future_fif_digital_days_open_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

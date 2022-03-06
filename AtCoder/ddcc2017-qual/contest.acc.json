@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "ddcc2017-qual",
+    "title": "DISCO presents ディスカバリーチャンネル コードコンテスト2017 予選",
+    "url": "https://atcoder.jp/contests/ddcc2017-qual"
+  },
+  "tasks": [
+    {
+      "id": "ddcc2017_qual_a",
+      "label": "A",
+      "title": "DDCC型文字列",
+      "url": "https://atcoder.jp/contests/ddcc2017-qual/tasks/ddcc2017_qual_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "ddcc2017_qual_b",
+      "label": "B",
+      "title": "鉛筆",
+      "url": "https://atcoder.jp/contests/ddcc2017-qual/tasks/ddcc2017_qual_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "ddcc2017_qual_c",
+      "label": "C",
+      "title": "収納",
+      "url": "https://atcoder.jp/contests/ddcc2017-qual/tasks/ddcc2017_qual_c"
+    },
+    {
+      "id": "ddcc2017_qual_d",
+      "label": "D",
+      "title": "石",
+      "url": "https://atcoder.jp/contests/ddcc2017-qual/tasks/ddcc2017_qual_d"
+    }
+  ]
+}

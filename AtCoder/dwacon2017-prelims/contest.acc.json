@@ -1,0 +1,44 @@
+{
+  "contest": {
+    "id": "dwacon2017-prelims",
+    "title": "第3回 ドワンゴからの挑戦状 予選",
+    "url": "https://atcoder.jp/contests/dwacon2017-prelims"
+  },
+  "tasks": [
+    {
+      "id": "dwango2017qual_a",
+      "label": "A",
+      "title": "動画検索",
+      "url": "https://atcoder.jp/contests/dwacon2017-prelims/tasks/dwango2017qual_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "dwango2017qual_b",
+      "label": "B",
+      "title": "ニコニコレベル",
+      "url": "https://atcoder.jp/contests/dwacon2017-prelims/tasks/dwango2017qual_b"
+    },
+    {
+      "id": "dwango2017qual_c",
+      "label": "C",
+      "title": "スキーリフトの相乗り",
+      "url": "https://atcoder.jp/contests/dwacon2017-prelims/tasks/dwango2017qual_c"
+    },
+    {
+      "id": "dwango2017qual_d",
+      "label": "D",
+      "title": "ネタだけ食べたい寿司",
+      "url": "https://atcoder.jp/contests/dwacon2017-prelims/tasks/dwango2017qual_d"
+    },
+    {
+      "id": "dwango2017qual_e",
+      "label": "E",
+      "title": "偶奇飴分け",
+      "url": "https://atcoder.jp/contests/dwacon2017-prelims/tasks/dwango2017qual_e"
+    }
+  ]
+}

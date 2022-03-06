@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "utpc2011",
+    "title": "UTPC 2011",
+    "url": "https://atcoder.jp/contests/utpc2011"
+  },
+  "tasks": [
+    {
+      "id": "utpc2011_1",
+      "label": "A",
+      "title": "プログラミングコンテスト",
+      "url": "https://atcoder.jp/contests/utpc2011/tasks/utpc2011_1",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "utpc2011_2",
+      "label": "B",
+      "title": "(iwi)",
+      "url": "https://atcoder.jp/contests/utpc2011/tasks/utpc2011_2"
+    },
+    {
+      "id": "utpc2011_3",
+      "label": "C",
+      "title": "[[iwi]]",
+      "url": "https://atcoder.jp/contests/utpc2011/tasks/utpc2011_3"
+    },
+    {
+      "id": "utpc2011_4",
+      "label": "D",
+      "title": "停止問題",
+      "url": "https://atcoder.jp/contests/utpc2011/tasks/utpc2011_4"
+    },
+    {
+      "id": "utpc2011_5",
+      "label": "E",
+      "title": "ファーストアクセプタンス",
+      "url": "https://atcoder.jp/contests/utpc2011/tasks/utpc2011_5"
+    },
+    {
+      "id": "utpc2011_6",
+      "label": "F",
+      "title": "全域木",
+      "url": "https://atcoder.jp/contests/utpc2011/tasks/utpc2011_6"
+    },
+    {
+      "id": "utpc2011_7",
+      "label": "G",
+      "title": "プログラミングコンテストチャレンジブック",
+      "url": "https://atcoder.jp/contests/utpc2011/tasks/utpc2011_7"
+    },
+    {
+      "id": "utpc2011_8",
+      "label": "H",
+      "title": "キャッシュ戦略",
+      "url": "https://atcoder.jp/contests/utpc2011/tasks/utpc2011_8"
+    },
+    {
+      "id": "utpc2011_9",
+      "label": "I",
+      "title": "ビット演算",
+      "url": "https://atcoder.jp/contests/utpc2011/tasks/utpc2011_9"
+    },
+    {
+      "id": "utpc2011_10",
+      "label": "J",
+      "title": "乱択平衡分二分探索木",
+      "url": "https://atcoder.jp/contests/utpc2011/tasks/utpc2011_10"
+    },
+    {
+      "id": "utpc2011_11",
+      "label": "K",
+      "title": "巡回セールスマン問題",
+      "url": "https://atcoder.jp/contests/utpc2011/tasks/utpc2011_11"
+    },
+    {
+      "id": "utpc2011_12",
+      "label": "L",
+      "title": "L番目の数字",
+      "url": "https://atcoder.jp/contests/utpc2011/tasks/utpc2011_12"
+    }
+  ]
+}

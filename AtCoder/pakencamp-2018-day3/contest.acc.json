@@ -1,0 +1,67 @@
+{
+  "contest": {
+    "id": "pakencamp-2018-day3",
+    "title": "パ研合宿コンペティション 3日目",
+    "url": "https://atcoder.jp/contests/pakencamp-2018-day3"
+  },
+  "tasks": [
+    {
+      "id": "pakencamp_2018_day3_a",
+      "label": "A",
+      "title": "ネクスト・クリスマス",
+      "url": "https://atcoder.jp/contests/pakencamp-2018-day3/tasks/pakencamp_2018_day3_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "pakencamp_2018_day3_b",
+      "label": "B",
+      "title": "㍻の終焉を告げる",
+      "url": "https://atcoder.jp/contests/pakencamp-2018-day3/tasks/pakencamp_2018_day3_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "pakencamp_2018_day3_c",
+      "label": "C",
+      "title": "竹の観察",
+      "url": "https://atcoder.jp/contests/pakencamp-2018-day3/tasks/pakencamp_2018_day3_c"
+    },
+    {
+      "id": "pakencamp_2018_day3_d",
+      "label": "D",
+      "title": "なぎさちゃんの別荘",
+      "url": "https://atcoder.jp/contests/pakencamp-2018-day3/tasks/pakencamp_2018_day3_d"
+    },
+    {
+      "id": "pakencamp_2018_day3_e",
+      "label": "E",
+      "title": "美しい和音",
+      "url": "https://atcoder.jp/contests/pakencamp-2018-day3/tasks/pakencamp_2018_day3_e"
+    },
+    {
+      "id": "pakencamp_2018_day3_f",
+      "label": "F",
+      "title": "ミックスジュース",
+      "url": "https://atcoder.jp/contests/pakencamp-2018-day3/tasks/pakencamp_2018_day3_f"
+    },
+    {
+      "id": "pakencamp_2018_day3_g",
+      "label": "G",
+      "title": "落単の危機",
+      "url": "https://atcoder.jp/contests/pakencamp-2018-day3/tasks/pakencamp_2018_day3_g"
+    },
+    {
+      "id": "pakencamp_2018_day3_h",
+      "label": "H",
+      "title": "整数をつくろう！",
+      "url": "https://atcoder.jp/contests/pakencamp-2018-day3/tasks/pakencamp_2018_day3_h"
+    }
+  ]
+}

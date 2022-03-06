@@ -1,0 +1,54 @@
+{
+  "contest": {
+    "id": "joi2006yo",
+    "title": "第５回日本情報オリンピック 予選（過去問）",
+    "url": "https://atcoder.jp/contests/joi2006yo"
+  },
+  "tasks": [
+    {
+      "id": "joi2006yo_a",
+      "label": "A",
+      "title": "JOI 2006 予選 問題1",
+      "url": "https://atcoder.jp/contests/joi2006yo/tasks/joi2006yo_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "joi2006yo_b",
+      "label": "B",
+      "title": "JOI 2006 予選 問題2",
+      "url": "https://atcoder.jp/contests/joi2006yo/tasks/joi2006yo_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "joi2006yo_c",
+      "label": "C",
+      "title": "JOI 2006 予選 問題3",
+      "url": "https://atcoder.jp/contests/joi2006yo/tasks/joi2006yo_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "joi2006yo_d",
+      "label": "D",
+      "title": "JOI 2006 予選 問題4",
+      "url": "https://atcoder.jp/contests/joi2006yo/tasks/joi2006yo_d"
+    },
+    {
+      "id": "joi2006yo_e",
+      "label": "E",
+      "title": "JOI 2006 予選 問題5",
+      "url": "https://atcoder.jp/contests/joi2006yo/tasks/joi2006yo_e"
+    }
+  ]
+}

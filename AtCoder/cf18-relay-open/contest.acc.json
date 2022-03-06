@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": "cf18-relay-open",
+    "title": "Code Festival Team Relay (Parallel)",
+    "url": "https://atcoder.jp/contests/cf18-relay-open"
+  },
+  "tasks": [
+    {
+      "id": "relay2018_a",
+      "label": "A",
+      "title": "カレンダー",
+      "url": "https://atcoder.jp/contests/cf18-relay-open/tasks/relay2018_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "relay2018_b",
+      "label": "B",
+      "title": "ロボット",
+      "url": "https://atcoder.jp/contests/cf18-relay-open/tasks/relay2018_b"
+    },
+    {
+      "id": "relay2018_c",
+      "label": "C",
+      "title": "積まれた本",
+      "url": "https://atcoder.jp/contests/cf18-relay-open/tasks/relay2018_c"
+    },
+    {
+      "id": "relay2018_d",
+      "label": "D",
+      "title": "数直線",
+      "url": "https://atcoder.jp/contests/cf18-relay-open/tasks/relay2018_d"
+    },
+    {
+      "id": "relay2018_e",
+      "label": "E",
+      "title": "狼と狐",
+      "url": "https://atcoder.jp/contests/cf18-relay-open/tasks/relay2018_e"
+    },
+    {
+      "id": "relay2018_f",
+      "label": "F",
+      "title": "バス旅行",
+      "url": "https://atcoder.jp/contests/cf18-relay-open/tasks/relay2018_f"
+    },
+    {
+      "id": "relay2018_g",
+      "label": "G",
+      "title": "バス停と凸包",
+      "url": "https://atcoder.jp/contests/cf18-relay-open/tasks/relay2018_g"
+    },
+    {
+      "id": "relay2018_h",
+      "label": "H",
+      "title": "最悪のバス停決定戦",
+      "url": "https://atcoder.jp/contests/cf18-relay-open/tasks/relay2018_h"
+    },
+    {
+      "id": "relay2018_i",
+      "label": "I",
+      "title": "一円を笑う者は一円に泣く",
+      "url": "https://atcoder.jp/contests/cf18-relay-open/tasks/relay2018_i"
+    },
+    {
+      "id": "relay2018_j",
+      "label": "J",
+      "title": "健康診断",
+      "url": "https://atcoder.jp/contests/cf18-relay-open/tasks/relay2018_j"
+    }
+  ]
+}

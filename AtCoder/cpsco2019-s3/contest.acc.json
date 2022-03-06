@@ -1,0 +1,66 @@
+{
+  "contest": {
+    "id": "cpsco2019-s3",
+    "title": "CPSCO2019 Session3",
+    "url": "https://atcoder.jp/contests/cpsco2019-s3"
+  },
+  "tasks": [
+    {
+      "id": "cpsco2019_s3_a",
+      "label": "A",
+      "title": "ASOKO",
+      "url": "https://atcoder.jp/contests/cpsco2019-s3/tasks/cpsco2019_s3_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "cpsco2019_s3_b",
+      "label": "B",
+      "title": "Balloons",
+      "url": "https://atcoder.jp/contests/cpsco2019-s3/tasks/cpsco2019_s3_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "cpsco2019_s3_c",
+      "label": "C",
+      "title": "Camp Reception",
+      "url": "https://atcoder.jp/contests/cpsco2019-s3/tasks/cpsco2019_s3_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "cpsco2019_s3_d",
+      "label": "D",
+      "title": "Decode RGB Sequence",
+      "url": "https://atcoder.jp/contests/cpsco2019-s3/tasks/cpsco2019_s3_d"
+    },
+    {
+      "id": "cpsco2019_s3_e",
+      "label": "E",
+      "title": "Enumerate Xor Sum",
+      "url": "https://atcoder.jp/contests/cpsco2019-s3/tasks/cpsco2019_s3_e"
+    },
+    {
+      "id": "cpsco2019_s3_f",
+      "label": "F",
+      "title": "Flexible Permutation",
+      "url": "https://atcoder.jp/contests/cpsco2019-s3/tasks/cpsco2019_s3_f"
+    },
+    {
+      "id": "cpsco2019_s3_g",
+      "label": "G",
+      "title": "Grand Election",
+      "url": "https://atcoder.jp/contests/cpsco2019-s3/tasks/cpsco2019_s3_g"
+    }
+  ]
+}

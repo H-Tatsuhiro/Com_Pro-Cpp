@@ -1,0 +1,67 @@
+{
+  "contest": {
+    "id": "cpsco2019-s1",
+    "title": "CPSCO2019 Session1",
+    "url": "https://atcoder.jp/contests/cpsco2019-s1"
+  },
+  "tasks": [
+    {
+      "id": "cpsco2019_s1_a",
+      "label": "A",
+      "title": "Ajihon",
+      "url": "https://atcoder.jp/contests/cpsco2019-s1/tasks/cpsco2019_s1_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "cpsco2019_s1_b",
+      "label": "B",
+      "title": "Beautiful Harmony",
+      "url": "https://atcoder.jp/contests/cpsco2019-s1/tasks/cpsco2019_s1_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "cpsco2019_s1_c",
+      "label": "C",
+      "title": "Coins",
+      "url": "https://atcoder.jp/contests/cpsco2019-s1/tasks/cpsco2019_s1_c"
+    },
+    {
+      "id": "cpsco2019_s1_d",
+      "label": "D",
+      "title": "Dessert Planning",
+      "url": "https://atcoder.jp/contests/cpsco2019-s1/tasks/cpsco2019_s1_d"
+    },
+    {
+      "id": "cpsco2019_s1_e",
+      "label": "E",
+      "title": "Exclusive OR Queries",
+      "url": "https://atcoder.jp/contests/cpsco2019-s1/tasks/cpsco2019_s1_e"
+    },
+    {
+      "id": "cpsco2019_s1_f",
+      "label": "F",
+      "title": "Fruits in Season",
+      "url": "https://atcoder.jp/contests/cpsco2019-s1/tasks/cpsco2019_s1_f"
+    },
+    {
+      "id": "cpsco2019_s1_g",
+      "label": "G",
+      "title": "Game with Division",
+      "url": "https://atcoder.jp/contests/cpsco2019-s1/tasks/cpsco2019_s1_g"
+    },
+    {
+      "id": "cpsco2019_s1_h",
+      "label": "H",
+      "title": "Highest and Ends",
+      "url": "https://atcoder.jp/contests/cpsco2019-s1/tasks/cpsco2019_s1_h"
+    }
+  ]
+}

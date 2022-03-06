@@ -1,0 +1,60 @@
+{
+  "contest": {
+    "id": "wupc2012",
+    "title": "WUPC 2012",
+    "url": "https://atcoder.jp/contests/wupc2012"
+  },
+  "tasks": [
+    {
+      "id": "wupc2012_1",
+      "label": "A",
+      "title": "招待状",
+      "url": "https://atcoder.jp/contests/wupc2012/tasks/wupc2012_1",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "wupc2012_2",
+      "label": "B",
+      "title": "パスワード",
+      "url": "https://atcoder.jp/contests/wupc2012/tasks/wupc2012_2",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "wupc2012_3",
+      "label": "C",
+      "title": "自宅からの脱出",
+      "url": "https://atcoder.jp/contests/wupc2012/tasks/wupc2012_3",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "wupc2012_4",
+      "label": "D",
+      "title": "三角パズル",
+      "url": "https://atcoder.jp/contests/wupc2012/tasks/wupc2012_4"
+    },
+    {
+      "id": "wupc2012_5",
+      "label": "E",
+      "title": "会場への道",
+      "url": "https://atcoder.jp/contests/wupc2012/tasks/wupc2012_5"
+    },
+    {
+      "id": "wupc2012_6",
+      "label": "F",
+      "title": "最後の問題",
+      "url": "https://atcoder.jp/contests/wupc2012/tasks/wupc2012_6"
+    }
+  ]
+}

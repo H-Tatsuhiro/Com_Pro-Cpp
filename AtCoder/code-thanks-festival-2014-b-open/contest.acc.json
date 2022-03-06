@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": "code-thanks-festival-2014-b-open",
+    "title": "code thanks festival 2014 B日程（オープンコンテスト）",
+    "url": "https://atcoder.jp/contests/code-thanks-festival-2014-b-open"
+  },
+  "tasks": [
+    {
+      "id": "code_thanks_festival_14_qualb_a",
+      "label": "A",
+      "title": "朝食",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2014-b-open/tasks/code_thanks_festival_14_qualb_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "code_thanks_festival_14_qualb_b",
+      "label": "B",
+      "title": "電卓ゲーム",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2014-b-open/tasks/code_thanks_festival_14_qualb_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "code_thanks_festival_14_qualb_c",
+      "label": "C",
+      "title": "人気投票ゲーム",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2014-b-open/tasks/code_thanks_festival_14_qualb_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "code_thanks_festival_14_qualb_d",
+      "label": "D",
+      "title": "足ゲーム",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2014-b-open/tasks/code_thanks_festival_14_qualb_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "code_thanks_festival_14_qualb_e",
+      "label": "E",
+      "title": "マスゲーム",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2014-b-open/tasks/code_thanks_festival_14_qualb_e"
+    },
+    {
+      "id": "code_thanks_festival_14_qualb_f",
+      "label": "F",
+      "title": "太鼓ゲーム",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2014-b-open/tasks/code_thanks_festival_14_qualb_f"
+    },
+    {
+      "id": "code_thanks_festival_14_qualb_g",
+      "label": "G",
+      "title": "石取りゲーム",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2014-b-open/tasks/code_thanks_festival_14_qualb_g"
+    },
+    {
+      "id": "code_thanks_festival_14_qualb_h",
+      "label": "H",
+      "title": "しりとりゲーム",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2014-b-open/tasks/code_thanks_festival_14_qualb_h"
+    }
+  ]
+}

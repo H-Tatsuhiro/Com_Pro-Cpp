@@ -1,0 +1,85 @@
+{
+  "contest": {
+    "id": "kupc2013",
+    "title": "京都大学プログラミングコンテスト2013",
+    "url": "https://atcoder.jp/contests/kupc2013"
+  },
+  "tasks": [
+    {
+      "id": "kupc2013_a",
+      "label": "A",
+      "title": "旧総合研究７号館",
+      "url": "https://atcoder.jp/contests/kupc2013/tasks/kupc2013_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "kupc2013_b",
+      "label": "B",
+      "title": "ライオン",
+      "url": "https://atcoder.jp/contests/kupc2013/tasks/kupc2013_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "kupc2013_c",
+      "label": "C",
+      "title": "チョコレート",
+      "url": "https://atcoder.jp/contests/kupc2013/tasks/kupc2013_c"
+    },
+    {
+      "id": "kupc2013_d",
+      "label": "D",
+      "title": "カーペット",
+      "url": "https://atcoder.jp/contests/kupc2013/tasks/kupc2013_d"
+    },
+    {
+      "id": "kupc2013_e",
+      "label": "E",
+      "title": "すごろく",
+      "url": "https://atcoder.jp/contests/kupc2013/tasks/kupc2013_e"
+    },
+    {
+      "id": "kupc2013_f",
+      "label": "F",
+      "title": "７歳教",
+      "url": "https://atcoder.jp/contests/kupc2013/tasks/kupc2013_f"
+    },
+    {
+      "id": "kupc2013_g",
+      "label": "G",
+      "title": "自由研究",
+      "url": "https://atcoder.jp/contests/kupc2013/tasks/kupc2013_g"
+    },
+    {
+      "id": "kupc2013_h",
+      "label": "H",
+      "title": "N and K",
+      "url": "https://atcoder.jp/contests/kupc2013/tasks/kupc2013_h"
+    },
+    {
+      "id": "kupc2013_i",
+      "label": "I",
+      "title": "σ",
+      "url": "https://atcoder.jp/contests/kupc2013/tasks/kupc2013_i"
+    },
+    {
+      "id": "kupc2013_j",
+      "label": "J",
+      "title": "タイル置き",
+      "url": "https://atcoder.jp/contests/kupc2013/tasks/kupc2013_j"
+    },
+    {
+      "id": "kupc2013_k",
+      "label": "K",
+      "title": "encode/decode",
+      "url": "https://atcoder.jp/contests/kupc2013/tasks/kupc2013_k"
+    }
+  ]
+}

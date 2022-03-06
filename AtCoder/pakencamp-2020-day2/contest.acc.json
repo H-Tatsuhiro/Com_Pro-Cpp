@@ -1,0 +1,62 @@
+{
+  "contest": {
+    "id": "pakencamp-2020-day2",
+    "title": "パ研合宿2020　第2日「パ研杯2020」",
+    "url": "https://atcoder.jp/contests/pakencamp-2020-day2"
+  },
+  "tasks": [
+    {
+      "id": "pakencamp_2020_day2_a",
+      "label": "A",
+      "title": "Participants",
+      "url": "https://atcoder.jp/contests/pakencamp-2020-day2/tasks/pakencamp_2020_day2_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "pakencamp_2020_day2_b",
+      "label": "B",
+      "title": "Walking",
+      "url": "https://atcoder.jp/contests/pakencamp-2020-day2/tasks/pakencamp_2020_day2_b"
+    },
+    {
+      "id": "pakencamp_2020_day2_c",
+      "label": "C",
+      "title": "A + B",
+      "url": "https://atcoder.jp/contests/pakencamp-2020-day2/tasks/pakencamp_2020_day2_c"
+    },
+    {
+      "id": "pakencamp_2020_day2_d",
+      "label": "D",
+      "title": "Animal Show",
+      "url": "https://atcoder.jp/contests/pakencamp-2020-day2/tasks/pakencamp_2020_day2_d"
+    },
+    {
+      "id": "pakencamp_2020_day2_e",
+      "label": "E",
+      "title": "老朽化対策",
+      "url": "https://atcoder.jp/contests/pakencamp-2020-day2/tasks/pakencamp_2020_day2_e"
+    },
+    {
+      "id": "pakencamp_2020_day2_f",
+      "label": "F",
+      "title": "来年も本選に20人送り込むので覚悟しておいてください",
+      "url": "https://atcoder.jp/contests/pakencamp-2020-day2/tasks/pakencamp_2020_day2_f"
+    },
+    {
+      "id": "pakencamp_2020_day2_g",
+      "label": "G",
+      "title": "旅人計画問題",
+      "url": "https://atcoder.jp/contests/pakencamp-2020-day2/tasks/pakencamp_2020_day2_g"
+    },
+    {
+      "id": "pakencamp_2020_day2_h",
+      "label": "H",
+      "title": "旅立ちの日に",
+      "url": "https://atcoder.jp/contests/pakencamp-2020-day2/tasks/pakencamp_2020_day2_h"
+    }
+  ]
+}

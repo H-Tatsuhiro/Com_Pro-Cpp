@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": "colopl2018-qual",
+    "title": "COLOCON -Colopl programming contest 2018-",
+    "url": "https://atcoder.jp/contests/colopl2018-qual"
+  },
+  "tasks": [
+    {
+      "id": "colopl2018_qual_a",
+      "label": "A",
+      "title": "すぬけそだて――登録――",
+      "url": "https://atcoder.jp/contests/colopl2018-qual/tasks/colopl2018_qual_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "colopl2018_qual_b",
+      "label": "B",
+      "title": "すぬけそだて――チュートリアル――",
+      "url": "https://atcoder.jp/contests/colopl2018-qual/tasks/colopl2018_qual_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "colopl2018_qual_c",
+      "label": "C",
+      "title": "すぬけそだて――ごはん――",
+      "url": "https://atcoder.jp/contests/colopl2018-qual/tasks/colopl2018_qual_c"
+    },
+    {
+      "id": "colopl2018_qual_d",
+      "label": "D",
+      "title": "すぬけそだて――トレーニング――",
+      "url": "https://atcoder.jp/contests/colopl2018-qual/tasks/colopl2018_qual_d"
+    },
+    {
+      "id": "colopl2018_qual_e",
+      "label": "E",
+      "title": "すぬけそだて――わっか――",
+      "url": "https://atcoder.jp/contests/colopl2018-qual/tasks/colopl2018_qual_e"
+    }
+  ]
+}

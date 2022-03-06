@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "kupc2017",
+    "title": "Kyoto University Programming Contest 2017",
+    "url": "https://atcoder.jp/contests/kupc2017"
+  },
+  "tasks": [
+    {
+      "id": "kupc2017_a",
+      "label": "A",
+      "title": "Credits",
+      "url": "https://atcoder.jp/contests/kupc2017/tasks/kupc2017_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "kupc2017_b",
+      "label": "B",
+      "title": "Camphor Tree",
+      "url": "https://atcoder.jp/contests/kupc2017/tasks/kupc2017_b"
+    },
+    {
+      "id": "kupc2017_c",
+      "label": "C",
+      "title": "Best Password",
+      "url": "https://atcoder.jp/contests/kupc2017/tasks/kupc2017_c"
+    },
+    {
+      "id": "kupc2017_d",
+      "label": "D",
+      "title": "Sanmoku",
+      "url": "https://atcoder.jp/contests/kupc2017/tasks/kupc2017_d"
+    },
+    {
+      "id": "kupc2017_e",
+      "label": "E",
+      "title": "Treasure Hunt",
+      "url": "https://atcoder.jp/contests/kupc2017/tasks/kupc2017_e"
+    },
+    {
+      "id": "kupc2017_f",
+      "label": "F",
+      "title": "575",
+      "url": "https://atcoder.jp/contests/kupc2017/tasks/kupc2017_f"
+    },
+    {
+      "id": "kupc2017_g",
+      "label": "G",
+      "title": "encode/decode 2017",
+      "url": "https://atcoder.jp/contests/kupc2017/tasks/kupc2017_g"
+    },
+    {
+      "id": "kupc2017_h",
+      "label": "H",
+      "title": "Make a Potion",
+      "url": "https://atcoder.jp/contests/kupc2017/tasks/kupc2017_h"
+    },
+    {
+      "id": "kupc2017_i",
+      "label": "I",
+      "title": "Activate It!!",
+      "url": "https://atcoder.jp/contests/kupc2017/tasks/kupc2017_i"
+    },
+    {
+      "id": "kupc2017_j",
+      "label": "J",
+      "title": "Paint Red and Make Graph",
+      "url": "https://atcoder.jp/contests/kupc2017/tasks/kupc2017_j"
+    },
+    {
+      "id": "kupc2017_k",
+      "label": "K",
+      "title": "Xor Summation Pattern",
+      "url": "https://atcoder.jp/contests/kupc2017/tasks/kupc2017_k"
+    },
+    {
+      "id": "kupc2017_l",
+      "label": "L",
+      "title": "Coin Game 2017",
+      "url": "https://atcoder.jp/contests/kupc2017/tasks/kupc2017_l"
+    }
+  ]
+}

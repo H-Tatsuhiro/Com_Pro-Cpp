@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": "wupc2019",
+    "title": "早稲田大学プログラミングコンテスト2019",
+    "url": "https://atcoder.jp/contests/wupc2019"
+  },
+  "tasks": [
+    {
+      "id": "wupc2019_a",
+      "label": "A",
+      "title": "WAsedAC",
+      "url": "https://atcoder.jp/contests/wupc2019/tasks/wupc2019_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "wupc2019_b",
+      "label": "B",
+      "title": "10 puzzle",
+      "url": "https://atcoder.jp/contests/wupc2019/tasks/wupc2019_b"
+    },
+    {
+      "id": "wupc2019_c",
+      "label": "C",
+      "title": "Permutation City",
+      "url": "https://atcoder.jp/contests/wupc2019/tasks/wupc2019_c"
+    },
+    {
+      "id": "wupc2019_d",
+      "label": "D",
+      "title": "Choose Your Characters",
+      "url": "https://atcoder.jp/contests/wupc2019/tasks/wupc2019_d"
+    },
+    {
+      "id": "wupc2019_e",
+      "label": "E",
+      "title": "Artist",
+      "url": "https://atcoder.jp/contests/wupc2019/tasks/wupc2019_e"
+    },
+    {
+      "id": "wupc2019_f",
+      "label": "F",
+      "title": "RPG",
+      "url": "https://atcoder.jp/contests/wupc2019/tasks/wupc2019_f"
+    },
+    {
+      "id": "wupc2019_g",
+      "label": "G",
+      "title": "Teishoku",
+      "url": "https://atcoder.jp/contests/wupc2019/tasks/wupc2019_g"
+    },
+    {
+      "id": "wupc2019_h",
+      "label": "H",
+      "title": "Doki Doki Programming Clubs!",
+      "url": "https://atcoder.jp/contests/wupc2019/tasks/wupc2019_h"
+    },
+    {
+      "id": "wupc2019_i",
+      "label": "I",
+      "title": "Ramen",
+      "url": "https://atcoder.jp/contests/wupc2019/tasks/wupc2019_i"
+    },
+    {
+      "id": "wupc2019_j",
+      "label": "J",
+      "title": "Color Ball",
+      "url": "https://atcoder.jp/contests/wupc2019/tasks/wupc2019_j"
+    }
+  ]
+}

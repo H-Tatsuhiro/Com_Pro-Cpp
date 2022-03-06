@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": "donuts-live2014",
+    "title": "Donuts プロコンチャレンジ2014",
+    "url": "https://atcoder.jp/contests/donuts-live2014"
+  },
+  "tasks": [
+    {
+      "id": "donuts_live2014_1",
+      "label": "A",
+      "title": "勤怠管理",
+      "url": "https://atcoder.jp/contests/donuts-live2014/tasks/donuts_live2014_1",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "donuts_live2014_2",
+      "label": "B",
+      "title": "7th",
+      "url": "https://atcoder.jp/contests/donuts-live2014/tasks/donuts_live2014_2",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "donuts_live2014_3",
+      "label": "C",
+      "title": "ソーシャルゲーム",
+      "url": "https://atcoder.jp/contests/donuts-live2014/tasks/donuts_live2014_3"
+    },
+    {
+      "id": "donuts_live2014_4",
+      "label": "D",
+      "title": "サバゲー",
+      "url": "https://atcoder.jp/contests/donuts-live2014/tasks/donuts_live2014_4"
+    },
+    {
+      "id": "donuts_live2014_5",
+      "label": "E",
+      "title": "お菓子やさん",
+      "url": "https://atcoder.jp/contests/donuts-live2014/tasks/donuts_live2014_5"
+    }
+  ]
+}

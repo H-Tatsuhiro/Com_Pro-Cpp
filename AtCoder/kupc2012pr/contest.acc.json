@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "kupc2012pr",
+    "title": "京都大学プログラミングコンテスト2012 practice",
+    "url": "https://atcoder.jp/contests/kupc2012pr"
+  },
+  "tasks": [
+    {
+      "id": "kupc2012pr_1",
+      "label": "A",
+      "title": "Wikipedia",
+      "url": "https://atcoder.jp/contests/kupc2012pr/tasks/kupc2012pr_1",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "kupc2012pr_2",
+      "label": "B",
+      "title": "String Sorting",
+      "url": "https://atcoder.jp/contests/kupc2012pr/tasks/kupc2012pr_2"
+    },
+    {
+      "id": "kupc2012pr_3",
+      "label": "C",
+      "title": "パニクるな",
+      "url": "https://atcoder.jp/contests/kupc2012pr/tasks/kupc2012pr_3"
+    },
+    {
+      "id": "kupc2012pr_4",
+      "label": "D",
+      "title": "A mul B Problem",
+      "url": "https://atcoder.jp/contests/kupc2012pr/tasks/kupc2012pr_4"
+    }
+  ]
+}

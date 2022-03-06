@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "kupc2014",
+    "title": "京都大学プログラミングコンテスト2014",
+    "url": "https://atcoder.jp/contests/kupc2014"
+  },
+  "tasks": [
+    {
+      "id": "kupc2014_a",
+      "label": "A",
+      "title": "マッサージチェア",
+      "url": "https://atcoder.jp/contests/kupc2014/tasks/kupc2014_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "kupc2014_b",
+      "label": "B",
+      "title": "数当てゲーム",
+      "url": "https://atcoder.jp/contests/kupc2014/tasks/kupc2014_b"
+    },
+    {
+      "id": "kupc2014_c",
+      "label": "C",
+      "title": "占い",
+      "url": "https://atcoder.jp/contests/kupc2014/tasks/kupc2014_c"
+    },
+    {
+      "id": "kupc2014_d",
+      "label": "D",
+      "title": "ハミング",
+      "url": "https://atcoder.jp/contests/kupc2014/tasks/kupc2014_d"
+    },
+    {
+      "id": "kupc2014_e",
+      "label": "E",
+      "title": "何しちゃおっかな？",
+      "url": "https://atcoder.jp/contests/kupc2014/tasks/kupc2014_e"
+    },
+    {
+      "id": "kupc2014_f",
+      "label": "F",
+      "title": "テレパシー",
+      "url": "https://atcoder.jp/contests/kupc2014/tasks/kupc2014_f"
+    },
+    {
+      "id": "kupc2014_g",
+      "label": "G",
+      "title": "Darkroom",
+      "url": "https://atcoder.jp/contests/kupc2014/tasks/kupc2014_g"
+    },
+    {
+      "id": "kupc2014_h",
+      "label": "H",
+      "title": "自転車走",
+      "url": "https://atcoder.jp/contests/kupc2014/tasks/kupc2014_h"
+    },
+    {
+      "id": "kupc2014_i",
+      "label": "I",
+      "title": "Rain",
+      "url": "https://atcoder.jp/contests/kupc2014/tasks/kupc2014_i"
+    },
+    {
+      "id": "kupc2014_j",
+      "label": "J",
+      "title": "カード",
+      "url": "https://atcoder.jp/contests/kupc2014/tasks/kupc2014_j"
+    },
+    {
+      "id": "kupc2014_k",
+      "label": "K",
+      "title": "弱点",
+      "url": "https://atcoder.jp/contests/kupc2014/tasks/kupc2014_k"
+    },
+    {
+      "id": "kupc2014_l",
+      "label": "L",
+      "title": "べき乗数",
+      "url": "https://atcoder.jp/contests/kupc2014/tasks/kupc2014_l"
+    }
+  ]
+}

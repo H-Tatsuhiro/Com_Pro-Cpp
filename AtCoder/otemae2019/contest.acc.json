@@ -1,0 +1,68 @@
+{
+  "contest": {
+    "id": "otemae2019",
+    "title": "Otemae High School Programming Contest 2019",
+    "url": "https://atcoder.jp/contests/otemae2019"
+  },
+  "tasks": [
+    {
+      "id": "otemae2019_a",
+      "label": "A",
+      "title": "寝坊だ！ピ太郎！ (You overslept, Pitaro)",
+      "url": "https://atcoder.jp/contests/otemae2019/tasks/otemae2019_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "otemae2019_b",
+      "label": "B",
+      "title": "駒 (Pieces)",
+      "url": "https://atcoder.jp/contests/otemae2019/tasks/otemae2019_b"
+    },
+    {
+      "id": "otemae2019_c",
+      "label": "C",
+      "title": "カード並べ 2 (Arranging Card 2)",
+      "url": "https://atcoder.jp/contests/otemae2019/tasks/otemae2019_c"
+    },
+    {
+      "id": "otemae2019_d",
+      "label": "D",
+      "title": "FizzBuzz (FizzBuzz)",
+      "url": "https://atcoder.jp/contests/otemae2019/tasks/otemae2019_d"
+    },
+    {
+      "id": "otemae2019_e",
+      "label": "E",
+      "title": "最悪の教頭 (Worst Head Teacher)",
+      "url": "https://atcoder.jp/contests/otemae2019/tasks/otemae2019_e"
+    },
+    {
+      "id": "otemae2019_f",
+      "label": "F",
+      "title": "天秤とコイン (Balance and Coins)",
+      "url": "https://atcoder.jp/contests/otemae2019/tasks/otemae2019_f"
+    },
+    {
+      "id": "otemae2019_g",
+      "label": "G",
+      "title": "空をかけるピ太郎 (Pitaro, who Leaps through Air)",
+      "url": "https://atcoder.jp/contests/otemae2019/tasks/otemae2019_g"
+    },
+    {
+      "id": "otemae2019_h",
+      "label": "H",
+      "title": "美味しい飴 (Candy is Delicious)",
+      "url": "https://atcoder.jp/contests/otemae2019/tasks/otemae2019_h"
+    },
+    {
+      "id": "otemae2019_i",
+      "label": "I",
+      "title": "ピーターランドの道路整備 (Road Development in Peterland)",
+      "url": "https://atcoder.jp/contests/otemae2019/tasks/otemae2019_i"
+    }
+  ]
+}

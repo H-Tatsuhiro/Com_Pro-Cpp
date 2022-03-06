@@ -1,0 +1,55 @@
+{
+  "contest": {
+    "id": "exawizards2019",
+    "title": "ExaWizards 2019",
+    "url": "https://atcoder.jp/contests/exawizards2019"
+  },
+  "tasks": [
+    {
+      "id": "exawizards2019_a",
+      "label": "A",
+      "title": "Regular Triangle",
+      "url": "https://atcoder.jp/contests/exawizards2019/tasks/exawizards2019_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "exawizards2019_b",
+      "label": "B",
+      "title": "Red or Blue",
+      "url": "https://atcoder.jp/contests/exawizards2019/tasks/exawizards2019_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "exawizards2019_c",
+      "label": "C",
+      "title": "Snuke the Wizard",
+      "url": "https://atcoder.jp/contests/exawizards2019/tasks/exawizards2019_c"
+    },
+    {
+      "id": "exawizards2019_d",
+      "label": "D",
+      "title": "Modulo Operations",
+      "url": "https://atcoder.jp/contests/exawizards2019/tasks/exawizards2019_d"
+    },
+    {
+      "id": "exawizards2019_e",
+      "label": "E",
+      "title": "Black or White",
+      "url": "https://atcoder.jp/contests/exawizards2019/tasks/exawizards2019_e"
+    },
+    {
+      "id": "exawizards2019_f",
+      "label": "F",
+      "title": "More Realistic Manhattan Distance",
+      "url": "https://atcoder.jp/contests/exawizards2019/tasks/exawizards2019_f"
+    }
+  ]
+}

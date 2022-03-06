@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "utpc2014",
+    "title": "東京大学プログラミングコンテスト2014",
+    "url": "https://atcoder.jp/contests/utpc2014"
+  },
+  "tasks": [
+    {
+      "id": "utpc2014_a",
+      "label": "A",
+      "title": "二重否定除去法則",
+      "url": "https://atcoder.jp/contests/utpc2014/tasks/utpc2014_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "utpc2014_b",
+      "label": "B",
+      "title": "交点",
+      "url": "https://atcoder.jp/contests/utpc2014/tasks/utpc2014_b"
+    },
+    {
+      "id": "utpc2014_c",
+      "label": "C",
+      "title": "最小カットと最大カット",
+      "url": "https://atcoder.jp/contests/utpc2014/tasks/utpc2014_c"
+    },
+    {
+      "id": "utpc2014_d",
+      "label": "D",
+      "title": "ラボライブ　タフグローバルフェスティバル",
+      "url": "https://atcoder.jp/contests/utpc2014/tasks/utpc2014_d"
+    },
+    {
+      "id": "utpc2014_e",
+      "label": "E",
+      "title": "宝くじ",
+      "url": "https://atcoder.jp/contests/utpc2014/tasks/utpc2014_e"
+    },
+    {
+      "id": "utpc2014_f",
+      "label": "F",
+      "title": "チェックディジット",
+      "url": "https://atcoder.jp/contests/utpc2014/tasks/utpc2014_f"
+    },
+    {
+      "id": "utpc2014_g",
+      "label": "G",
+      "title": "唯一の組み合わせ",
+      "url": "https://atcoder.jp/contests/utpc2014/tasks/utpc2014_g"
+    },
+    {
+      "id": "utpc2014_h",
+      "label": "H",
+      "title": "回すだけ",
+      "url": "https://atcoder.jp/contests/utpc2014/tasks/utpc2014_h"
+    },
+    {
+      "id": "utpc2014_i",
+      "label": "I",
+      "title": "盆栽",
+      "url": "https://atcoder.jp/contests/utpc2014/tasks/utpc2014_i"
+    },
+    {
+      "id": "utpc2014_j",
+      "label": "J",
+      "title": "看板の塗り替え",
+      "url": "https://atcoder.jp/contests/utpc2014/tasks/utpc2014_j"
+    },
+    {
+      "id": "utpc2014_k",
+      "label": "K",
+      "title": "乱数調整",
+      "url": "https://atcoder.jp/contests/utpc2014/tasks/utpc2014_k"
+    },
+    {
+      "id": "utpc2014_l",
+      "label": "L",
+      "title": "セミ時雨ハッシュ",
+      "url": "https://atcoder.jp/contests/utpc2014/tasks/utpc2014_l"
+    }
+  ]
+}

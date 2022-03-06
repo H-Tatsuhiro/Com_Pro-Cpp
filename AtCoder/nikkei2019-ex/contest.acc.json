@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": "nikkei2019-ex",
+    "title": "全国統一プログラミング王決定戦 エキシビジョン",
+    "url": "https://atcoder.jp/contests/nikkei2019-ex"
+  },
+  "tasks": [
+    {
+      "id": "nikkei2019ex_a",
+      "label": "A",
+      "title": "Prefix Array",
+      "url": "https://atcoder.jp/contests/nikkei2019-ex/tasks/nikkei2019ex_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "nikkei2019ex_b",
+      "label": "B",
+      "title": "二乗",
+      "url": "https://atcoder.jp/contests/nikkei2019-ex/tasks/nikkei2019ex_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "nikkei2019ex_c",
+      "label": "C",
+      "title": "11で割った余りの計算方法",
+      "url": "https://atcoder.jp/contests/nikkei2019-ex/tasks/nikkei2019ex_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "nikkei2019ex_d",
+      "label": "D",
+      "title": "辞書順最小の数",
+      "url": "https://atcoder.jp/contests/nikkei2019-ex/tasks/nikkei2019ex_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "nikkei2019ex_f",
+      "label": "E",
+      "title": "スーパーFizzBuzz",
+      "url": "https://atcoder.jp/contests/nikkei2019-ex/tasks/nikkei2019ex_f",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "nikkei2019ex_e",
+      "label": "F",
+      "title": "コラッツ問題",
+      "url": "https://atcoder.jp/contests/nikkei2019-ex/tasks/nikkei2019ex_e"
+    },
+    {
+      "id": "nikkei2019ex_g",
+      "label": "G",
+      "title": "回文スコア",
+      "url": "https://atcoder.jp/contests/nikkei2019-ex/tasks/nikkei2019ex_g"
+    },
+    {
+      "id": "nikkei2019ex_h",
+      "label": "H",
+      "title": "8^kゲーム",
+      "url": "https://atcoder.jp/contests/nikkei2019-ex/tasks/nikkei2019ex_h"
+    }
+  ]
+}

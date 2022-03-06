@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": "code-thanks-festival-2018",
+    "title": "CODE THANKS FESTIVAL 2018",
+    "url": "https://atcoder.jp/contests/code-thanks-festival-2018"
+  },
+  "tasks": [
+    {
+      "id": "code_thanks_festival_2018_a",
+      "label": "A",
+      "title": "Two Problems",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2018/tasks/code_thanks_festival_2018_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "code_thanks_festival_2018_b",
+      "label": "B",
+      "title": "Colored Balls",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2018/tasks/code_thanks_festival_2018_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "code_thanks_festival_2018_c",
+      "label": "C",
+      "title": "Pair Distance",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2018/tasks/code_thanks_festival_2018_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "code_thanks_festival_2018_d",
+      "label": "D",
+      "title": "Concatenation",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2018/tasks/code_thanks_festival_2018_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "code_thanks_festival_2018_e",
+      "label": "E",
+      "title": "Union",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2018/tasks/code_thanks_festival_2018_e"
+    },
+    {
+      "id": "code_thanks_festival_2018_f",
+      "label": "F",
+      "title": "Coins on the tree",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2018/tasks/code_thanks_festival_2018_f"
+    },
+    {
+      "id": "code_thanks_festival_2018_g",
+      "label": "G",
+      "title": "Sum of Cards",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2018/tasks/code_thanks_festival_2018_g"
+    },
+    {
+      "id": "code_thanks_festival_2018_h",
+      "label": "H",
+      "title": "Median Game",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2018/tasks/code_thanks_festival_2018_h"
+    }
+  ]
+}

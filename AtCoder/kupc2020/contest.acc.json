@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": "kupc2020",
+    "title": "Kyoto University Programming Contest 2020",
+    "url": "https://atcoder.jp/contests/kupc2020"
+  },
+  "tasks": [
+    {
+      "id": "kupc2020_a",
+      "label": "A",
+      "title": "Classroom Distance",
+      "url": "https://atcoder.jp/contests/kupc2020/tasks/kupc2020_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "kupc2020_b",
+      "label": "B",
+      "title": "Numbers on Papers",
+      "url": "https://atcoder.jp/contests/kupc2020/tasks/kupc2020_b"
+    },
+    {
+      "id": "kupc2020_c",
+      "label": "C",
+      "title": "Grid and Substrings",
+      "url": "https://atcoder.jp/contests/kupc2020/tasks/kupc2020_c"
+    },
+    {
+      "id": "kupc2020_d",
+      "label": "D",
+      "title": "Stick Combination",
+      "url": "https://atcoder.jp/contests/kupc2020/tasks/kupc2020_d"
+    },
+    {
+      "id": "kupc2020_e",
+      "label": "E",
+      "title": "Sequence Partitioning",
+      "url": "https://atcoder.jp/contests/kupc2020/tasks/kupc2020_e"
+    },
+    {
+      "id": "kupc2020_f",
+      "label": "F",
+      "title": "GRIDMST",
+      "url": "https://atcoder.jp/contests/kupc2020/tasks/kupc2020_f"
+    },
+    {
+      "id": "kupc2020_g",
+      "label": "G",
+      "title": "Counting Angels",
+      "url": "https://atcoder.jp/contests/kupc2020/tasks/kupc2020_g"
+    },
+    {
+      "id": "kupc2020_h",
+      "label": "H",
+      "title": "Beans on the Grid",
+      "url": "https://atcoder.jp/contests/kupc2020/tasks/kupc2020_h"
+    },
+    {
+      "id": "kupc2020_i",
+      "label": "I",
+      "title": "Coloring Paths",
+      "url": "https://atcoder.jp/contests/kupc2020/tasks/kupc2020_i"
+    },
+    {
+      "id": "kupc2020_j",
+      "label": "J",
+      "title": "Median Query",
+      "url": "https://atcoder.jp/contests/kupc2020/tasks/kupc2020_j"
+    },
+    {
+      "id": "kupc2020_k",
+      "label": "K",
+      "title": "Deleting Edges",
+      "url": "https://atcoder.jp/contests/kupc2020/tasks/kupc2020_k"
+    },
+    {
+      "id": "kupc2020_l",
+      "label": "L",
+      "title": "Inside Story of Median Query",
+      "url": "https://atcoder.jp/contests/kupc2020/tasks/kupc2020_l"
+    },
+    {
+      "id": "kupc2020_m",
+      "label": "M",
+      "title": "Many Parentheses",
+      "url": "https://atcoder.jp/contests/kupc2020/tasks/kupc2020_m"
+    }
+  ]
+}

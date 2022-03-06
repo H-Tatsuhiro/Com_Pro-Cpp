@@ -1,0 +1,80 @@
+{
+  "contest": {
+    "id": "cf16-relay-open",
+    "title": "CODE FESTIVAL 2016 Relay (Parallel)",
+    "url": "https://atcoder.jp/contests/cf16-relay-open"
+  },
+  "tasks": [
+    {
+      "id": "relay_a",
+      "label": "A",
+      "title": "Equivalent Resistance",
+      "url": "https://atcoder.jp/contests/cf16-relay-open/tasks/relay_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "relay_b",
+      "label": "B",
+      "title": "Mirror String",
+      "url": "https://atcoder.jp/contests/cf16-relay-open/tasks/relay_b"
+    },
+    {
+      "id": "relay_c",
+      "label": "C",
+      "title": "Kode Festival",
+      "url": "https://atcoder.jp/contests/cf16-relay-open/tasks/relay_c"
+    },
+    {
+      "id": "relay_d",
+      "label": "D",
+      "title": "Magic Square 2",
+      "url": "https://atcoder.jp/contests/cf16-relay-open/tasks/relay_d"
+    },
+    {
+      "id": "relay_e",
+      "label": "E",
+      "title": "Segment on Grid Paper",
+      "url": "https://atcoder.jp/contests/cf16-relay-open/tasks/relay_e"
+    },
+    {
+      "id": "relay_f",
+      "label": "F",
+      "title": "Trichotomy",
+      "url": "https://atcoder.jp/contests/cf16-relay-open/tasks/relay_f"
+    },
+    {
+      "id": "relay_g",
+      "label": "G",
+      "title": "Magician",
+      "url": "https://atcoder.jp/contests/cf16-relay-open/tasks/relay_g"
+    },
+    {
+      "id": "relay_h",
+      "label": "H",
+      "title": "Early Bird",
+      "url": "https://atcoder.jp/contests/cf16-relay-open/tasks/relay_h"
+    },
+    {
+      "id": "relay_i",
+      "label": "I",
+      "title": "3y3s Challenge",
+      "url": "https://atcoder.jp/contests/cf16-relay-open/tasks/relay_i"
+    },
+    {
+      "id": "relay_j",
+      "label": "J",
+      "title": "Connected Checkerboard",
+      "url": "https://atcoder.jp/contests/cf16-relay-open/tasks/relay_j"
+    },
+    {
+      "id": "relay_k",
+      "label": "K",
+      "title": "Problem on Tree",
+      "url": "https://atcoder.jp/contests/cf16-relay-open/tasks/relay_k"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "ddcc2019-qual",
+    "title": "DISCO presents ディスカバリーチャンネル コードコンテスト2019 予選",
+    "url": "https://atcoder.jp/contests/ddcc2019-qual"
+  },
+  "tasks": [
+    {
+      "id": "ddcc2018_qual_a",
+      "label": "A",
+      "title": "チップ・ストーリー　～無色編～",
+      "url": "https://atcoder.jp/contests/ddcc2019-qual/tasks/ddcc2018_qual_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "ddcc2018_qual_b",
+      "label": "B",
+      "title": "チップ・ストーリー　～漆黒編～",
+      "url": "https://atcoder.jp/contests/ddcc2019-qual/tasks/ddcc2018_qual_b"
+    },
+    {
+      "id": "ddcc2018_qual_c",
+      "label": "C",
+      "title": "チップ・ストーリー　～白銀編～",
+      "url": "https://atcoder.jp/contests/ddcc2019-qual/tasks/ddcc2018_qual_c"
+    },
+    {
+      "id": "ddcc2018_qual_d",
+      "label": "D",
+      "title": "チップ・ストーリー　～黄金編～",
+      "url": "https://atcoder.jp/contests/ddcc2019-qual/tasks/ddcc2018_qual_d"
+    }
+  ]
+}

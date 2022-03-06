@@ -1,0 +1,61 @@
+{
+  "contest": {
+    "id": "cpsco2019-s2",
+    "title": "CPSCO2019 Session2",
+    "url": "https://atcoder.jp/contests/cpsco2019-s2"
+  },
+  "tasks": [
+    {
+      "id": "cpsco2019_s2_a",
+      "label": "A",
+      "title": "Scholarship Repayment",
+      "url": "https://atcoder.jp/contests/cpsco2019-s2/tasks/cpsco2019_s2_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "cpsco2019_s2_b",
+      "label": "B",
+      "title": "Telephone Q",
+      "url": "https://atcoder.jp/contests/cpsco2019-s2/tasks/cpsco2019_s2_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "cpsco2019_s2_c",
+      "label": "C",
+      "title": "Delicious Burgers",
+      "url": "https://atcoder.jp/contests/cpsco2019-s2/tasks/cpsco2019_s2_c"
+    },
+    {
+      "id": "cpsco2019_s2_d",
+      "label": "D",
+      "title": "Two Piles",
+      "url": "https://atcoder.jp/contests/cpsco2019-s2/tasks/cpsco2019_s2_d"
+    },
+    {
+      "id": "cpsco2019_s2_e",
+      "label": "E",
+      "title": "Mogu Mogu Gummi",
+      "url": "https://atcoder.jp/contests/cpsco2019-s2/tasks/cpsco2019_s2_e"
+    },
+    {
+      "id": "cpsco2019_s2_f",
+      "label": "F",
+      "title": "Treasure Collector",
+      "url": "https://atcoder.jp/contests/cpsco2019-s2/tasks/cpsco2019_s2_f"
+    },
+    {
+      "id": "cpsco2019_s2_g",
+      "label": "G",
+      "title": "MSTX",
+      "url": "https://atcoder.jp/contests/cpsco2019-s2/tasks/cpsco2019_s2_g"
+    }
+  ]
+}

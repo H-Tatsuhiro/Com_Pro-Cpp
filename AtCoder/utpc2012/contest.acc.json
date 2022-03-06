@@ -1,0 +1,91 @@
+{
+  "contest": {
+    "id": "utpc2012",
+    "title": "東京大学プログラミングコンテスト2012",
+    "url": "https://atcoder.jp/contests/utpc2012"
+  },
+  "tasks": [
+    {
+      "id": "utpc2012_01",
+      "label": "A",
+      "title": "2012年12月02日",
+      "url": "https://atcoder.jp/contests/utpc2012/tasks/utpc2012_01",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "utpc2012_02",
+      "label": "B",
+      "title": "残像に口紅を",
+      "url": "https://atcoder.jp/contests/utpc2012/tasks/utpc2012_02",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "utpc2012_03",
+      "label": "C",
+      "title": "森ですか？",
+      "url": "https://atcoder.jp/contests/utpc2012/tasks/utpc2012_03"
+    },
+    {
+      "id": "utpc2012_04",
+      "label": "D",
+      "title": "地図が２枚",
+      "url": "https://atcoder.jp/contests/utpc2012/tasks/utpc2012_04"
+    },
+    {
+      "id": "utpc2012_05",
+      "label": "E",
+      "title": "選挙",
+      "url": "https://atcoder.jp/contests/utpc2012/tasks/utpc2012_05"
+    },
+    {
+      "id": "utpc2012_06",
+      "label": "F",
+      "title": "Uinny",
+      "url": "https://atcoder.jp/contests/utpc2012/tasks/utpc2012_06"
+    },
+    {
+      "id": "utpc2012_07",
+      "label": "G",
+      "title": "k番目の文字列",
+      "url": "https://atcoder.jp/contests/utpc2012/tasks/utpc2012_07"
+    },
+    {
+      "id": "utpc2012_08",
+      "label": "H",
+      "title": "区間スケジューリングクエリ",
+      "url": "https://atcoder.jp/contests/utpc2012/tasks/utpc2012_08"
+    },
+    {
+      "id": "utpc2012_09",
+      "label": "I",
+      "title": "最短路クエリ",
+      "url": "https://atcoder.jp/contests/utpc2012/tasks/utpc2012_09"
+    },
+    {
+      "id": "utpc2012_10",
+      "label": "J",
+      "title": "きたまさの逆襲",
+      "url": "https://atcoder.jp/contests/utpc2012/tasks/utpc2012_10"
+    },
+    {
+      "id": "utpc2012_11",
+      "label": "K",
+      "title": "ラッピング",
+      "url": "https://atcoder.jp/contests/utpc2012/tasks/utpc2012_11"
+    },
+    {
+      "id": "utpc2012_12",
+      "label": "L",
+      "title": "じょうしょうツリー",
+      "url": "https://atcoder.jp/contests/utpc2012/tasks/utpc2012_12"
+    }
+  ]
+}

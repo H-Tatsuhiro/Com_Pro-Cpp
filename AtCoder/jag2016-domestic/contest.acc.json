@@ -1,0 +1,56 @@
+{
+  "contest": {
+    "id": "jag2016-domestic",
+    "title": "JAG Contest 2016 Domestic",
+    "url": "https://atcoder.jp/contests/jag2016-domestic"
+  },
+  "tasks": [
+    {
+      "id": "jag2016secretspring_a",
+      "label": "A",
+      "title": "阿吽の呼吸",
+      "url": "https://atcoder.jp/contests/jag2016-domestic/tasks/jag2016secretspring_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "jag2016secretspring_b",
+      "label": "B",
+      "title": "豪邸と宅配便",
+      "url": "https://atcoder.jp/contests/jag2016-domestic/tasks/jag2016secretspring_b"
+    },
+    {
+      "id": "jag2016secretspring_c",
+      "label": "C",
+      "title": "みさわさんの根付き木",
+      "url": "https://atcoder.jp/contests/jag2016-domestic/tasks/jag2016secretspring_c"
+    },
+    {
+      "id": "jag2016secretspring_d",
+      "label": "D",
+      "title": "インビジブル",
+      "url": "https://atcoder.jp/contests/jag2016-domestic/tasks/jag2016secretspring_d"
+    },
+    {
+      "id": "jag2016secretspring_e",
+      "label": "E",
+      "title": "選挙活動",
+      "url": "https://atcoder.jp/contests/jag2016-domestic/tasks/jag2016secretspring_e"
+    },
+    {
+      "id": "jag2016secretspring_f",
+      "label": "F",
+      "title": "土地相続",
+      "url": "https://atcoder.jp/contests/jag2016-domestic/tasks/jag2016secretspring_f"
+    },
+    {
+      "id": "jag2016secretspring_g",
+      "label": "G",
+      "title": "リングと紐",
+      "url": "https://atcoder.jp/contests/jag2016-domestic/tasks/jag2016secretspring_g"
+    }
+  ]
+}

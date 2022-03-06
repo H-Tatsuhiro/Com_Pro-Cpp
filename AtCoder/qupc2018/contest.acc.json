@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": "qupc2018",
+    "title": "九州大学プログラミングコンテスト2018",
+    "url": "https://atcoder.jp/contests/qupc2018"
+  },
+  "tasks": [
+    {
+      "id": "qupc2018_a",
+      "label": "A",
+      "title": "QUPC",
+      "url": "https://atcoder.jp/contests/qupc2018/tasks/qupc2018_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "qupc2018_b",
+      "label": "B",
+      "title": "Tapu & Tapi",
+      "url": "https://atcoder.jp/contests/qupc2018/tasks/qupc2018_b"
+    },
+    {
+      "id": "qupc2018_c",
+      "label": "C",
+      "title": "Ito Campus",
+      "url": "https://atcoder.jp/contests/qupc2018/tasks/qupc2018_c"
+    },
+    {
+      "id": "qupc2018_d",
+      "label": "D",
+      "title": "Novelist",
+      "url": "https://atcoder.jp/contests/qupc2018/tasks/qupc2018_d"
+    },
+    {
+      "id": "qupc2018_e",
+      "label": "E",
+      "title": "Treeone",
+      "url": "https://atcoder.jp/contests/qupc2018/tasks/qupc2018_e"
+    },
+    {
+      "id": "qupc2018_f",
+      "label": "F",
+      "title": "Team Making",
+      "url": "https://atcoder.jp/contests/qupc2018/tasks/qupc2018_f"
+    },
+    {
+      "id": "qupc2018_g",
+      "label": "G",
+      "title": "Tapu & Tapi 2",
+      "url": "https://atcoder.jp/contests/qupc2018/tasks/qupc2018_g"
+    },
+    {
+      "id": "qupc2018_h",
+      "label": "H",
+      "title": "ukuku",
+      "url": "https://atcoder.jp/contests/qupc2018/tasks/qupc2018_h"
+    },
+    {
+      "id": "qupc2018_i",
+      "label": "I",
+      "title": "Buffalo",
+      "url": "https://atcoder.jp/contests/qupc2018/tasks/qupc2018_i"
+    },
+    {
+      "id": "qupc2018_j",
+      "label": "J",
+      "title": "Repeat Strings",
+      "url": "https://atcoder.jp/contests/qupc2018/tasks/qupc2018_j"
+    }
+  ]
+}

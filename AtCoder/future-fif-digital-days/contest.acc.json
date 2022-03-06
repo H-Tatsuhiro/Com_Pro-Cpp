@@ -1,0 +1,42 @@
+{
+  "contest": {
+    "id": "future-fif-digital-days",
+    "title": "デジタルの日特別イベント「HACK TO THE FUTURE for Youth+」",
+    "url": "https://atcoder.jp/contests/future-fif-digital-days"
+  },
+  "tasks": [
+    {
+      "id": "future_fif_digital_days_a",
+      "label": "A",
+      "title": "Polyomino Connection A",
+      "url": "https://atcoder.jp/contests/future-fif-digital-days/tasks/future_fif_digital_days_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "future_fif_digital_days_b",
+      "label": "B",
+      "title": "Polyomino Connection B",
+      "url": "https://atcoder.jp/contests/future-fif-digital-days/tasks/future_fif_digital_days_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "future_fif_digital_days_c",
+      "label": "C",
+      "title": "Polyomino Connection C",
+      "url": "https://atcoder.jp/contests/future-fif-digital-days/tasks/future_fif_digital_days_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "contest": {
+    "id": "tkppc6-1",
+    "title": "技術室奥プログラミングコンテスト#6 Day1",
+    "url": "https://atcoder.jp/contests/tkppc6-1"
+  },
+  "tasks": [
+    {
+      "id": "tkppc6_1_a",
+      "label": "A",
+      "title": "技術室奥プログラミングコンテストの未来",
+      "url": "https://atcoder.jp/contests/tkppc6-1/tasks/tkppc6_1_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "tkppc6_1_b",
+      "label": "B",
+      "title": "カラフルパ研",
+      "url": "https://atcoder.jp/contests/tkppc6-1/tasks/tkppc6_1_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "tkppc6_1_c",
+      "label": "C",
+      "title": "Grip",
+      "url": "https://atcoder.jp/contests/tkppc6-1/tasks/tkppc6_1_c"
+    },
+    {
+      "id": "tkppc6_1_d",
+      "label": "D",
+      "title": "ABS SUM",
+      "url": "https://atcoder.jp/contests/tkppc6-1/tasks/tkppc6_1_d"
+    },
+    {
+      "id": "tkppc6_1_e",
+      "label": "E",
+      "title": "And Xor Or",
+      "url": "https://atcoder.jp/contests/tkppc6-1/tasks/tkppc6_1_e"
+    },
+    {
+      "id": "tkppc6_1_f",
+      "label": "F",
+      "title": "Frog and Tadpole",
+      "url": "https://atcoder.jp/contests/tkppc6-1/tasks/tkppc6_1_f"
+    },
+    {
+      "id": "tkppc6_1_g",
+      "label": "G",
+      "title": "At Most Two",
+      "url": "https://atcoder.jp/contests/tkppc6-1/tasks/tkppc6_1_g"
+    },
+    {
+      "id": "tkppc6_1_h",
+      "label": "H",
+      "title": "Marbles and Boxes",
+      "url": "https://atcoder.jp/contests/tkppc6-1/tasks/tkppc6_1_h"
+    },
+    {
+      "id": "tkppc6_1_i",
+      "label": "I",
+      "title": "1<->k",
+      "url": "https://atcoder.jp/contests/tkppc6-1/tasks/tkppc6_1_i"
+    },
+    {
+      "id": "tkppc6_1_j",
+      "label": "J",
+      "title": "Two Paths",
+      "url": "https://atcoder.jp/contests/tkppc6-1/tasks/tkppc6_1_j"
+    },
+    {
+      "id": "tkppc6_1_k",
+      "label": "K",
+      "title": "Dial Key",
+      "url": "https://atcoder.jp/contests/tkppc6-1/tasks/tkppc6_1_k"
+    },
+    {
+      "id": "tkppc6_1_l",
+      "label": "L",
+      "title": "Polyomino Tiling",
+      "url": "https://atcoder.jp/contests/tkppc6-1/tasks/tkppc6_1_l"
+    },
+    {
+      "id": "tkppc6_1_m",
+      "label": "M",
+      "title": "To The LCA",
+      "url": "https://atcoder.jp/contests/tkppc6-1/tasks/tkppc6_1_m"
+    },
+    {
+      "id": "tkppc6_1_n",
+      "label": "N",
+      "title": "Jump and Walk",
+      "url": "https://atcoder.jp/contests/tkppc6-1/tasks/tkppc6_1_n"
+    },
+    {
+      "id": "tkppc6_1_o",
+      "label": "O",
+      "title": "ペンギンくんの仕事計画",
+      "url": "https://atcoder.jp/contests/tkppc6-1/tasks/tkppc6_1_o"
+    },
+    {
+      "id": "tkppc6_1_p",
+      "label": "P",
+      "title": "Game on Colored Tree",
+      "url": "https://atcoder.jp/contests/tkppc6-1/tasks/tkppc6_1_p"
+    }
+  ]
+}

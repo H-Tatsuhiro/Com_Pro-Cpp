@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": "qupc2014",
+    "title": "九州大学プログラミングコンテスト2014",
+    "url": "https://atcoder.jp/contests/qupc2014"
+  },
+  "tasks": [
+    {
+      "id": "qupc2014_a",
+      "label": "A",
+      "title": "成績判定",
+      "url": "https://atcoder.jp/contests/qupc2014/tasks/qupc2014_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "qupc2014_b",
+      "label": "B",
+      "title": "元素の系統名",
+      "url": "https://atcoder.jp/contests/qupc2014/tasks/qupc2014_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "qupc2014_c",
+      "label": "C",
+      "title": "案内所",
+      "url": "https://atcoder.jp/contests/qupc2014/tasks/qupc2014_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "qupc2014_d",
+      "label": "D",
+      "title": "切符分割",
+      "url": "https://atcoder.jp/contests/qupc2014/tasks/qupc2014_d"
+    },
+    {
+      "id": "qupc2014_e",
+      "label": "E",
+      "title": "捕獲",
+      "url": "https://atcoder.jp/contests/qupc2014/tasks/qupc2014_e"
+    },
+    {
+      "id": "qupc2014_f",
+      "label": "F",
+      "title": "設備移転",
+      "url": "https://atcoder.jp/contests/qupc2014/tasks/qupc2014_f"
+    },
+    {
+      "id": "qupc2014_g",
+      "label": "G",
+      "title": "立ち入り禁止区域",
+      "url": "https://atcoder.jp/contests/qupc2014/tasks/qupc2014_g"
+    },
+    {
+      "id": "qupc2014_h",
+      "label": "H",
+      "title": "お風呂は気持ちいい",
+      "url": "https://atcoder.jp/contests/qupc2014/tasks/qupc2014_h"
+    }
+  ]
+}

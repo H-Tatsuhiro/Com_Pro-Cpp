@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": "yahoo-procon2018-qual",
+    "title": "「みんなのプロコン 2018」",
+    "url": "https://atcoder.jp/contests/yahoo-procon2018-qual"
+  },
+  "tasks": [
+    {
+      "id": "yahoo_procon2018_qual_a",
+      "label": "A",
+      "title": "yahoo",
+      "url": "https://atcoder.jp/contests/yahoo-procon2018-qual/tasks/yahoo_procon2018_qual_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "yahoo_procon2018_qual_b",
+      "label": "B",
+      "title": "オークション",
+      "url": "https://atcoder.jp/contests/yahoo-procon2018-qual/tasks/yahoo_procon2018_qual_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "yahoo_procon2018_qual_c",
+      "label": "C",
+      "title": "駆引取引",
+      "url": "https://atcoder.jp/contests/yahoo-procon2018-qual/tasks/yahoo_procon2018_qual_c"
+    },
+    {
+      "id": "yahoo_procon2018_qual_d",
+      "label": "D",
+      "title": "XOR XorY",
+      "url": "https://atcoder.jp/contests/yahoo-procon2018-qual/tasks/yahoo_procon2018_qual_d"
+    },
+    {
+      "id": "yahoo_procon2018_qual_e",
+      "label": "E",
+      "title": "グラフの問題",
+      "url": "https://atcoder.jp/contests/yahoo-procon2018-qual/tasks/yahoo_procon2018_qual_e"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "contest": {
+    "id": "tenka1-2016-quala",
+    "title": "天下一プログラマーコンテスト2016予選A",
+    "url": "https://atcoder.jp/contests/tenka1-2016-quala"
+  },
+  "tasks": [
+    {
+      "id": "tenka1_2016_qualA_a",
+      "label": "A",
+      "title": "天下一プログラマーゲーム",
+      "url": "https://atcoder.jp/contests/tenka1-2016-quala/tasks/tenka1_2016_qualA_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "tenka1_2016_qualA_b",
+      "label": "B",
+      "title": "PackDrop",
+      "url": "https://atcoder.jp/contests/tenka1-2016-quala/tasks/tenka1_2016_qualA_b"
+    },
+    {
+      "id": "tenka1_2016_qualA_c",
+      "label": "C",
+      "title": "山田山本問題",
+      "url": "https://atcoder.jp/contests/tenka1-2016-quala/tasks/tenka1_2016_qualA_c"
+    },
+    {
+      "id": "tenka1_2016_qualA_d",
+      "label": "D",
+      "title": "グラフィカルグラフ",
+      "url": "https://atcoder.jp/contests/tenka1-2016-quala/tasks/tenka1_2016_qualA_d"
+    },
+    {
+      "id": "tenka1_2016_qualA_e",
+      "label": "E",
+      "title": "無限グラフ",
+      "url": "https://atcoder.jp/contests/tenka1-2016-quala/tasks/tenka1_2016_qualA_e"
+    }
+  ]
+}

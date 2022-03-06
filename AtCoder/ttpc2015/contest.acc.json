@@ -1,0 +1,115 @@
+{
+  "contest": {
+    "id": "ttpc2015",
+    "title": "東京工業大学プログラミングコンテスト2015",
+    "url": "https://atcoder.jp/contests/ttpc2015"
+  },
+  "tasks": [
+    {
+      "id": "ttpc2015_a",
+      "label": "A",
+      "title": "ぼくの学生証",
+      "url": "https://atcoder.jp/contests/ttpc2015/tasks/ttpc2015_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "ttpc2015_b",
+      "label": "B",
+      "title": "ラー油",
+      "url": "https://atcoder.jp/contests/ttpc2015/tasks/ttpc2015_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "ttpc2015_c",
+      "label": "C",
+      "title": "おおおかやま",
+      "url": "https://atcoder.jp/contests/ttpc2015/tasks/ttpc2015_c"
+    },
+    {
+      "id": "ttpc2015_d",
+      "label": "D",
+      "title": "文字列と素数",
+      "url": "https://atcoder.jp/contests/ttpc2015/tasks/ttpc2015_d"
+    },
+    {
+      "id": "ttpc2015_e",
+      "label": "E",
+      "title": "マス目色ぬり",
+      "url": "https://atcoder.jp/contests/ttpc2015/tasks/ttpc2015_e"
+    },
+    {
+      "id": "ttpc2015_f",
+      "label": "F",
+      "title": "レシート",
+      "url": "https://atcoder.jp/contests/ttpc2015/tasks/ttpc2015_f"
+    },
+    {
+      "id": "ttpc2015_g",
+      "label": "G",
+      "title": "titech分離",
+      "url": "https://atcoder.jp/contests/ttpc2015/tasks/ttpc2015_g"
+    },
+    {
+      "id": "ttpc2015_h",
+      "label": "H",
+      "title": "包囲",
+      "url": "https://atcoder.jp/contests/ttpc2015/tasks/ttpc2015_h"
+    },
+    {
+      "id": "ttpc2015_i",
+      "label": "I",
+      "title": "そーっとソート",
+      "url": "https://atcoder.jp/contests/ttpc2015/tasks/ttpc2015_i"
+    },
+    {
+      "id": "ttpc2015_j",
+      "label": "J",
+      "title": "指さし",
+      "url": "https://atcoder.jp/contests/ttpc2015/tasks/ttpc2015_j"
+    },
+    {
+      "id": "ttpc2015_k",
+      "label": "K",
+      "title": "麻雀",
+      "url": "https://atcoder.jp/contests/ttpc2015/tasks/ttpc2015_k"
+    },
+    {
+      "id": "ttpc2015_l",
+      "label": "L",
+      "title": "グラフ色ぬり",
+      "url": "https://atcoder.jp/contests/ttpc2015/tasks/ttpc2015_l"
+    },
+    {
+      "id": "ttpc2015_m",
+      "label": "M",
+      "title": "コインと無向グラフ",
+      "url": "https://atcoder.jp/contests/ttpc2015/tasks/ttpc2015_m"
+    },
+    {
+      "id": "ttpc2015_n",
+      "label": "N",
+      "title": "何かグラフの問題",
+      "url": "https://atcoder.jp/contests/ttpc2015/tasks/ttpc2015_n"
+    },
+    {
+      "id": "ttpc2015_o",
+      "label": "O",
+      "title": "数列色ぬり",
+      "url": "https://atcoder.jp/contests/ttpc2015/tasks/ttpc2015_o"
+    },
+    {
+      "id": "ttpc2015_p",
+      "label": "P",
+      "title": "Dancing stars on regular expression!",
+      "url": "https://atcoder.jp/contests/ttpc2015/tasks/ttpc2015_p"
+    }
+  ]
+}

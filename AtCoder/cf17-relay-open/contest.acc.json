@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": "cf17-relay-open",
+    "title": "Code Festival Team Relay (Parallel)",
+    "url": "https://atcoder.jp/contests/cf17-relay-open"
+  },
+  "tasks": [
+    {
+      "id": "relay2_a",
+      "label": "A",
+      "title": "Kaiden",
+      "url": "https://atcoder.jp/contests/cf17-relay-open/tasks/relay2_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "relay2_b",
+      "label": "B",
+      "title": "Evergrowing Tree",
+      "url": "https://atcoder.jp/contests/cf17-relay-open/tasks/relay2_b"
+    },
+    {
+      "id": "relay2_c",
+      "label": "C",
+      "title": "Garden",
+      "url": "https://atcoder.jp/contests/cf17-relay-open/tasks/relay2_c"
+    },
+    {
+      "id": "relay2_d",
+      "label": "D",
+      "title": "Shock",
+      "url": "https://atcoder.jp/contests/cf17-relay-open/tasks/relay2_d"
+    },
+    {
+      "id": "relay2_e",
+      "label": "E",
+      "title": "White and Blue",
+      "url": "https://atcoder.jp/contests/cf17-relay-open/tasks/relay2_e"
+    },
+    {
+      "id": "relay2_f",
+      "label": "F",
+      "title": "Capture",
+      "url": "https://atcoder.jp/contests/cf17-relay-open/tasks/relay2_f"
+    },
+    {
+      "id": "relay2_g",
+      "label": "G",
+      "title": "Coinage",
+      "url": "https://atcoder.jp/contests/cf17-relay-open/tasks/relay2_g"
+    },
+    {
+      "id": "relay2_h",
+      "label": "H",
+      "title": "Akashic Records",
+      "url": "https://atcoder.jp/contests/cf17-relay-open/tasks/relay2_h"
+    },
+    {
+      "id": "relay2_i",
+      "label": "I",
+      "title": "Nice to Meet You",
+      "url": "https://atcoder.jp/contests/cf17-relay-open/tasks/relay2_i"
+    },
+    {
+      "id": "relay2_j",
+      "label": "J",
+      "title": "Indifferent",
+      "url": "https://atcoder.jp/contests/cf17-relay-open/tasks/relay2_j"
+    }
+  ]
+}

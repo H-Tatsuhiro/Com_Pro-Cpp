@@ -1,0 +1,74 @@
+{
+  "contest": {
+    "id": "snuke21",
+    "title": "Snuke's Birthday Contest",
+    "url": "https://atcoder.jp/contests/snuke21"
+  },
+  "tasks": [
+    {
+      "id": "snuke21_a",
+      "label": "A",
+      "title": "Candles",
+      "url": "https://atcoder.jp/contests/snuke21/tasks/snuke21_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "snuke21_b",
+      "label": "B",
+      "title": "Snuke",
+      "url": "https://atcoder.jp/contests/snuke21/tasks/snuke21_b"
+    },
+    {
+      "id": "snuke21_c",
+      "label": "C",
+      "title": "Supermarket",
+      "url": "https://atcoder.jp/contests/snuke21/tasks/snuke21_c"
+    },
+    {
+      "id": "snuke21_d",
+      "label": "D",
+      "title": "Subsequence",
+      "url": "https://atcoder.jp/contests/snuke21/tasks/snuke21_d"
+    },
+    {
+      "id": "snuke21_e",
+      "label": "E",
+      "title": "Tournament",
+      "url": "https://atcoder.jp/contests/snuke21/tasks/snuke21_e"
+    },
+    {
+      "id": "snuke21_f",
+      "label": "F",
+      "title": "Lake",
+      "url": "https://atcoder.jp/contests/snuke21/tasks/snuke21_f"
+    },
+    {
+      "id": "snuke21_g",
+      "label": "G",
+      "title": "Medals",
+      "url": "https://atcoder.jp/contests/snuke21/tasks/snuke21_g"
+    },
+    {
+      "id": "snuke21_h",
+      "label": "H",
+      "title": "Snuke Density",
+      "url": "https://atcoder.jp/contests/snuke21/tasks/snuke21_h"
+    },
+    {
+      "id": "snuke21_i",
+      "label": "I",
+      "title": "Convex Polygon",
+      "url": "https://atcoder.jp/contests/snuke21/tasks/snuke21_i"
+    },
+    {
+      "id": "snuke21_j",
+      "label": "J",
+      "title": "Drink Bar",
+      "url": "https://atcoder.jp/contests/snuke21/tasks/snuke21_j"
+    }
+  ]
+}

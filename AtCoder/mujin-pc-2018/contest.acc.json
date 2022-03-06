@@ -1,0 +1,67 @@
+{
+  "contest": {
+    "id": "mujin-pc-2018",
+    "title": "Mujin Programming Challenge 2018",
+    "url": "https://atcoder.jp/contests/mujin-pc-2018"
+  },
+  "tasks": [
+    {
+      "id": "mujin_pc_2018_a",
+      "label": "A",
+      "title": "コンテスト名",
+      "url": "https://atcoder.jp/contests/mujin-pc-2018/tasks/mujin_pc_2018_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "mujin_pc_2018_b",
+      "label": "B",
+      "title": "セキュリティ",
+      "url": "https://atcoder.jp/contests/mujin-pc-2018/tasks/mujin_pc_2018_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "mujin_pc_2018_c",
+      "label": "C",
+      "title": "右折",
+      "url": "https://atcoder.jp/contests/mujin-pc-2018/tasks/mujin_pc_2018_c"
+    },
+    {
+      "id": "mujin_pc_2018_d",
+      "label": "D",
+      "title": "うほょじご",
+      "url": "https://atcoder.jp/contests/mujin-pc-2018/tasks/mujin_pc_2018_d"
+    },
+    {
+      "id": "mujin_pc_2018_e",
+      "label": "E",
+      "title": "迷路",
+      "url": "https://atcoder.jp/contests/mujin-pc-2018/tasks/mujin_pc_2018_e"
+    },
+    {
+      "id": "mujin_pc_2018_f",
+      "label": "F",
+      "title": "チーム分け",
+      "url": "https://atcoder.jp/contests/mujin-pc-2018/tasks/mujin_pc_2018_f"
+    },
+    {
+      "id": "mujin_pc_2018_g",
+      "label": "G",
+      "title": "移動",
+      "url": "https://atcoder.jp/contests/mujin-pc-2018/tasks/mujin_pc_2018_g"
+    },
+    {
+      "id": "mujin_pc_2018_h",
+      "label": "H",
+      "title": "タイル張り",
+      "url": "https://atcoder.jp/contests/mujin-pc-2018/tasks/mujin_pc_2018_h"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "contest": {
+    "id": "kupc2016",
+    "title": "Kyoto University Programming Contest 2016",
+    "url": "https://atcoder.jp/contests/kupc2016"
+  },
+  "tasks": [
+    {
+      "id": "kupc2016_a",
+      "label": "A",
+      "title": "A Barricade",
+      "url": "https://atcoder.jp/contests/kupc2016/tasks/kupc2016_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "kupc2016_b",
+      "label": "B",
+      "title": "Problem Committee",
+      "url": "https://atcoder.jp/contests/kupc2016/tasks/kupc2016_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "kupc2016_c",
+      "label": "C",
+      "title": "Cookie Breeding Machine",
+      "url": "https://atcoder.jp/contests/kupc2016/tasks/kupc2016_c"
+    },
+    {
+      "id": "kupc2016_d",
+      "label": "D",
+      "title": "Long Blackboard",
+      "url": "https://atcoder.jp/contests/kupc2016/tasks/kupc2016_d"
+    },
+    {
+      "id": "kupc2016_e",
+      "label": "E",
+      "title": "Fences",
+      "url": "https://atcoder.jp/contests/kupc2016/tasks/kupc2016_e"
+    },
+    {
+      "id": "kupc2016_f",
+      "label": "F",
+      "title": "Speed Solving",
+      "url": "https://atcoder.jp/contests/kupc2016/tasks/kupc2016_f"
+    },
+    {
+      "id": "kupc2016_g",
+      "label": "G",
+      "title": "Exam",
+      "url": "https://atcoder.jp/contests/kupc2016/tasks/kupc2016_g"
+    },
+    {
+      "id": "kupc2016_h",
+      "label": "H",
+      "title": "WAAAAAAAAAAAAALL",
+      "url": "https://atcoder.jp/contests/kupc2016/tasks/kupc2016_h"
+    },
+    {
+      "id": "kupc2016_i",
+      "label": "I",
+      "title": "Handing out leaflets",
+      "url": "https://atcoder.jp/contests/kupc2016/tasks/kupc2016_i"
+    },
+    {
+      "id": "kupc2016_j",
+      "label": "J",
+      "title": "Coloring",
+      "url": "https://atcoder.jp/contests/kupc2016/tasks/kupc2016_j"
+    },
+    {
+      "id": "kupc2016_k",
+      "label": "K",
+      "title": "Hundred Eyes Monster",
+      "url": "https://atcoder.jp/contests/kupc2016/tasks/kupc2016_k"
+    }
+  ]
+}

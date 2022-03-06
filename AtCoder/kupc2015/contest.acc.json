@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "kupc2015",
+    "title": "京都大学プログラミングコンテスト2015",
+    "url": "https://atcoder.jp/contests/kupc2015"
+  },
+  "tasks": [
+    {
+      "id": "kupc2015_a",
+      "label": "A",
+      "title": "東京都",
+      "url": "https://atcoder.jp/contests/kupc2015/tasks/kupc2015_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "kupc2015_b",
+      "label": "B",
+      "title": "GUARDIANS",
+      "url": "https://atcoder.jp/contests/kupc2015/tasks/kupc2015_b"
+    },
+    {
+      "id": "kupc2015_c",
+      "label": "C",
+      "title": "最短経路",
+      "url": "https://atcoder.jp/contests/kupc2015/tasks/kupc2015_c"
+    },
+    {
+      "id": "kupc2015_d",
+      "label": "D",
+      "title": "高橋君の旅行",
+      "url": "https://atcoder.jp/contests/kupc2015/tasks/kupc2015_d"
+    },
+    {
+      "id": "kupc2015_e",
+      "label": "E",
+      "title": "マッサージチェア2015",
+      "url": "https://atcoder.jp/contests/kupc2015/tasks/kupc2015_e"
+    },
+    {
+      "id": "kupc2015_f",
+      "label": "F",
+      "title": "逆ポーランド記法",
+      "url": "https://atcoder.jp/contests/kupc2015/tasks/kupc2015_f"
+    },
+    {
+      "id": "kupc2015_g",
+      "label": "G",
+      "title": "ケンドー",
+      "url": "https://atcoder.jp/contests/kupc2015/tasks/kupc2015_g"
+    },
+    {
+      "id": "kupc2015_h",
+      "label": "H",
+      "title": "Bit Count",
+      "url": "https://atcoder.jp/contests/kupc2015/tasks/kupc2015_h"
+    },
+    {
+      "id": "kupc2015_i",
+      "label": "I",
+      "title": "ハウスシャッフル",
+      "url": "https://atcoder.jp/contests/kupc2015/tasks/kupc2015_i"
+    },
+    {
+      "id": "kupc2015_j",
+      "label": "J",
+      "title": "MODクエリ",
+      "url": "https://atcoder.jp/contests/kupc2015/tasks/kupc2015_j"
+    },
+    {
+      "id": "kupc2015_k",
+      "label": "K",
+      "title": "SOULBLOCK",
+      "url": "https://atcoder.jp/contests/kupc2015/tasks/kupc2015_k"
+    },
+    {
+      "id": "kupc2015_l",
+      "label": "L",
+      "title": "コインゲーム",
+      "url": "https://atcoder.jp/contests/kupc2015/tasks/kupc2015_l"
+    }
+  ]
+}

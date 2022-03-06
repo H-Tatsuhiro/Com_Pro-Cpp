@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "kupc2019",
+    "title": "Kyoto University Programming Contest 2019",
+    "url": "https://atcoder.jp/contests/kupc2019"
+  },
+  "tasks": [
+    {
+      "id": "kupc2019_a",
+      "label": "A",
+      "title": "November Festival",
+      "url": "https://atcoder.jp/contests/kupc2019/tasks/kupc2019_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "kupc2019_b",
+      "label": "B",
+      "title": "ナップサック問題",
+      "url": "https://atcoder.jp/contests/kupc2019/tasks/kupc2019_b"
+    },
+    {
+      "id": "kupc2019_c",
+      "label": "C",
+      "title": "てんびんばかり",
+      "url": "https://atcoder.jp/contests/kupc2019/tasks/kupc2019_c"
+    },
+    {
+      "id": "kupc2019_d",
+      "label": "D",
+      "title": "Maximin Game",
+      "url": "https://atcoder.jp/contests/kupc2019/tasks/kupc2019_d"
+    },
+    {
+      "id": "kupc2019_e",
+      "label": "E",
+      "title": "根付き森二人用ゲーム",
+      "url": "https://atcoder.jp/contests/kupc2019/tasks/kupc2019_e"
+    },
+    {
+      "id": "kupc2019_f",
+      "label": "F",
+      "title": "カズマ王国の陥落",
+      "url": "https://atcoder.jp/contests/kupc2019/tasks/kupc2019_f"
+    },
+    {
+      "id": "kupc2019_g",
+      "label": "G",
+      "title": "ABCのG問題",
+      "url": "https://atcoder.jp/contests/kupc2019/tasks/kupc2019_g"
+    },
+    {
+      "id": "kupc2019_h",
+      "label": "H",
+      "title": "123パズル",
+      "url": "https://atcoder.jp/contests/kupc2019/tasks/kupc2019_h"
+    },
+    {
+      "id": "kupc2019_i",
+      "label": "I",
+      "title": "encode/decode 2019",
+      "url": "https://atcoder.jp/contests/kupc2019/tasks/kupc2019_i"
+    },
+    {
+      "id": "kupc2019_j",
+      "label": "J",
+      "title": "Link-cut tworee",
+      "url": "https://atcoder.jp/contests/kupc2019/tasks/kupc2019_j"
+    },
+    {
+      "id": "kupc2019_k",
+      "label": "K",
+      "title": "One or All",
+      "url": "https://atcoder.jp/contests/kupc2019/tasks/kupc2019_k"
+    },
+    {
+      "id": "kupc2019_l",
+      "label": "L",
+      "title": "タケノコ",
+      "url": "https://atcoder.jp/contests/kupc2019/tasks/kupc2019_l"
+    }
+  ]
+}

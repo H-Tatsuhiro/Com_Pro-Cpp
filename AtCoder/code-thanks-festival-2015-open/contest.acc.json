@@ -1,0 +1,62 @@
+{
+  "contest": {
+    "id": "code-thanks-festival-2015-open",
+    "title": "CODE THANKS FESTIVAL 2015 オープンコンテスト",
+    "url": "https://atcoder.jp/contests/code-thanks-festival-2015-open"
+  },
+  "tasks": [
+    {
+      "id": "code_thanks_festival_2015_a",
+      "label": "A",
+      "title": "金庫",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2015-open/tasks/code_thanks_festival_2015_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "code_thanks_festival_2015_b",
+      "label": "B",
+      "title": "袋とボール",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2015-open/tasks/code_thanks_festival_2015_b"
+    },
+    {
+      "id": "code_thanks_festival_2015_c",
+      "label": "C",
+      "title": "集合写真",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2015-open/tasks/code_thanks_festival_2015_c"
+    },
+    {
+      "id": "code_thanks_festival_2015_d",
+      "label": "D",
+      "title": "暴露",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2015-open/tasks/code_thanks_festival_2015_d"
+    },
+    {
+      "id": "code_thanks_festival_2015_e",
+      "label": "E",
+      "title": "ノイズ除去",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2015-open/tasks/code_thanks_festival_2015_e"
+    },
+    {
+      "id": "code_thanks_festival_2015_f",
+      "label": "F",
+      "title": "お祭りとお菓子",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2015-open/tasks/code_thanks_festival_2015_f"
+    },
+    {
+      "id": "code_thanks_festival_2015_g",
+      "label": "G",
+      "title": "カメレオン",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2015-open/tasks/code_thanks_festival_2015_g"
+    },
+    {
+      "id": "code_thanks_festival_2015_h",
+      "label": "H",
+      "title": "穴あきケーキ",
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2015-open/tasks/code_thanks_festival_2015_h"
+    }
+  ]
+}

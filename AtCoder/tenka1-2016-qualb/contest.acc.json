@@ -1,0 +1,44 @@
+{
+  "contest": {
+    "id": "tenka1-2016-qualb",
+    "title": "天下一プログラマーコンテスト2016予選B",
+    "url": "https://atcoder.jp/contests/tenka1-2016-qualb"
+  },
+  "tasks": [
+    {
+      "id": "tenka1_2016_qualB_a",
+      "label": "A",
+      "title": "天下一合成関数",
+      "url": "https://atcoder.jp/contests/tenka1-2016-qualb/tasks/tenka1_2016_qualB_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "tenka1_2016_qualB_b",
+      "label": "B",
+      "title": "天下一魔力発電",
+      "url": "https://atcoder.jp/contests/tenka1-2016-qualb/tasks/tenka1_2016_qualB_b"
+    },
+    {
+      "id": "tenka1_2016_qualB_c",
+      "label": "C",
+      "title": "天下一プログラマーコンテスト1999",
+      "url": "https://atcoder.jp/contests/tenka1-2016-qualb/tasks/tenka1_2016_qualB_c"
+    },
+    {
+      "id": "tenka1_2016_qualB_d",
+      "label": "D",
+      "title": "天下一数列にクエリを投げます",
+      "url": "https://atcoder.jp/contests/tenka1-2016-qualb/tasks/tenka1_2016_qualB_d"
+    },
+    {
+      "id": "tenka1_2016_qualB_e",
+      "label": "E",
+      "title": "天下一合体",
+      "url": "https://atcoder.jp/contests/tenka1-2016-qualb/tasks/tenka1_2016_qualB_e"
+    }
+  ]
+}

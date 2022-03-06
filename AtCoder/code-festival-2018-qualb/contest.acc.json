@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": "code-festival-2018-qualb",
+    "title": "CODE FESTIVAL 2018 qual B",
+    "url": "https://atcoder.jp/contests/code-festival-2018-qualb"
+  },
+  "tasks": [
+    {
+      "id": "code_festival_2018_qualb_a",
+      "label": "A",
+      "title": "Probability of Participation",
+      "url": "https://atcoder.jp/contests/code-festival-2018-qualb/tasks/code_festival_2018_qualb_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "code_festival_2018_qualb_b",
+      "label": "B",
+      "title": "Tensai",
+      "url": "https://atcoder.jp/contests/code-festival-2018-qualb/tasks/code_festival_2018_qualb_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "code_festival_2018_qualb_c",
+      "label": "C",
+      "title": "Special Cake for CODE FESTIVAL",
+      "url": "https://atcoder.jp/contests/code-festival-2018-qualb/tasks/code_festival_2018_qualb_c"
+    },
+    {
+      "id": "code_festival_2018_qualb_d",
+      "label": "D",
+      "title": "Sushi Restaurant",
+      "url": "https://atcoder.jp/contests/code-festival-2018-qualb/tasks/code_festival_2018_qualb_d"
+    },
+    {
+      "id": "code_festival_2018_qualb_e",
+      "label": "E",
+      "title": "Game of +-",
+      "url": "https://atcoder.jp/contests/code-festival-2018-qualb/tasks/code_festival_2018_qualb_e"
+    }
+  ]
+}

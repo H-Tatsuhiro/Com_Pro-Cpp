@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "tkppc4-2",
+    "title": "技術室奥プログラミングコンテスト#4 Day2",
+    "url": "https://atcoder.jp/contests/tkppc4-2"
+  },
+  "tasks": [
+    {
+      "id": "tkppc4_2_a",
+      "label": "A",
+      "title": "Jumping!!",
+      "url": "https://atcoder.jp/contests/tkppc4-2/tasks/tkppc4_2_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "tkppc4_2_b",
+      "label": "B",
+      "title": "Stalker",
+      "url": "https://atcoder.jp/contests/tkppc4-2/tasks/tkppc4_2_b"
+    },
+    {
+      "id": "tkppc4_2_c",
+      "label": "C",
+      "title": "Parity",
+      "url": "https://atcoder.jp/contests/tkppc4-2/tasks/tkppc4_2_c"
+    },
+    {
+      "id": "tkppc4_2_d",
+      "label": "D",
+      "title": "新入生歓迎数列 2",
+      "url": "https://atcoder.jp/contests/tkppc4-2/tasks/tkppc4_2_d"
+    },
+    {
+      "id": "tkppc4_2_e",
+      "label": "E",
+      "title": "引きこもり",
+      "url": "https://atcoder.jp/contests/tkppc4-2/tasks/tkppc4_2_e"
+    },
+    {
+      "id": "tkppc4_2_f",
+      "label": "F",
+      "title": "Segtree☆Magica",
+      "url": "https://atcoder.jp/contests/tkppc4-2/tasks/tkppc4_2_f"
+    },
+    {
+      "id": "tkppc4_2_g",
+      "label": "G",
+      "title": "平均レーティング",
+      "url": "https://atcoder.jp/contests/tkppc4-2/tasks/tkppc4_2_g"
+    },
+    {
+      "id": "tkppc4_2_h",
+      "label": "H",
+      "title": "打鍵戦争",
+      "url": "https://atcoder.jp/contests/tkppc4-2/tasks/tkppc4_2_h"
+    },
+    {
+      "id": "tkppc4_2_i",
+      "label": "I",
+      "title": "互いに素でないペアを持つ N の約数の集合の個数を求めてください。",
+      "url": "https://atcoder.jp/contests/tkppc4-2/tasks/tkppc4_2_i"
+    },
+    {
+      "id": "tkppc4_2_j",
+      "label": "J",
+      "title": "ドライブ旅行",
+      "url": "https://atcoder.jp/contests/tkppc4-2/tasks/tkppc4_2_j"
+    },
+    {
+      "id": "tkppc4_2_k",
+      "label": "K",
+      "title": "時をかけるTMJN",
+      "url": "https://atcoder.jp/contests/tkppc4-2/tasks/tkppc4_2_k"
+    },
+    {
+      "id": "tkppc4_2_l",
+      "label": "L",
+      "title": "建物と魔女",
+      "url": "https://atcoder.jp/contests/tkppc4-2/tasks/tkppc4_2_l"
+    }
+  ]
+}
