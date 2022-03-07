@@ -1,0 +1,13 @@
+/cmake-build-debug
+/Test/*
+!/Test/Template.cpp
+!/Test/Template_old.cpp
+!/Test/Template_GCJ.cpp
+/CMakeLists.txt
+/main.cpp
+/.idea
+*.out
+test/
+package-lock.json
+tests/
+/AtCoder/future-fif-digital-days/a/tools
