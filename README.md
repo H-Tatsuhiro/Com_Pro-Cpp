@@ -14,4 +14,5 @@ Competitive Programming (by C++)
 ## Change Log
 
 **2020/05/07** Submit file's name changed. detail : Problem Code(ex. A, B, C ...).ext => main.ext  
-**2021/10/19** Not enough 6`cpp` files of submission on AtCoderProblems.
+**2021/10/19** Not enough 6`cpp` files of submission on AtCoderProblems.  
+**2022/03/07** Not enough 3`cpp` files of submission on AtCoderProblems.
