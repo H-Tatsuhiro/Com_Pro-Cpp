@@ -31,7 +31,12 @@
       "id": "cpsco2019_s4_c",
       "label": "C",
       "title": "Make a Team",
-      "url": "https://atcoder.jp/contests/cpsco2019-s4/tasks/cpsco2019_s4_c"
+      "url": "https://atcoder.jp/contests/cpsco2019-s4/tasks/cpsco2019_s4_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "cpsco2019_s4_d",

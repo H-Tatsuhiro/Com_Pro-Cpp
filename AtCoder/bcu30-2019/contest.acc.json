@@ -1,0 +1,26 @@
+{
+  "contest": {
+    "id": "bcu30-2019",
+    "title": "プログラミングバトル 本戦 - BCU30",
+    "url": "https://atcoder.jp/contests/bcu30-2019"
+  },
+  "tasks": [
+    {
+      "id": "bcu30_2019_a",
+      "label": "A",
+      "title": "Wolf Keyboard",
+      "url": "https://atcoder.jp/contests/bcu30-2019/tasks/bcu30_2019_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "bcu30_2019_b",
+      "label": "B",
+      "title": "Interval Addition",
+      "url": "https://atcoder.jp/contests/bcu30-2019/tasks/bcu30_2019_b"
+    }
+  ]
+}

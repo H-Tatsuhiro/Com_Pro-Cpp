@@ -20,7 +20,12 @@
       "id": "code_thanks_festival_2015_b",
       "label": "B",
       "title": "袋とボール",
-      "url": "https://atcoder.jp/contests/code-thanks-festival-2015-open/tasks/code_thanks_festival_2015_b"
+      "url": "https://atcoder.jp/contests/code-thanks-festival-2015-open/tasks/code_thanks_festival_2015_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "code_thanks_festival_2015_c",

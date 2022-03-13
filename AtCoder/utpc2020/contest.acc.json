@@ -1,0 +1,92 @@
+{
+  "contest": {
+    "id": "utpc2020",
+    "title": "UTPC 2020",
+    "url": "https://atcoder.jp/contests/utpc2020"
+  },
+  "tasks": [
+    {
+      "id": "utpc2020_a",
+      "label": "A",
+      "title": "Row of Tents",
+      "url": "https://atcoder.jp/contests/utpc2020/tasks/utpc2020_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "utpc2020_b",
+      "label": "B",
+      "title": "JANKEN Machine",
+      "url": "https://atcoder.jp/contests/utpc2020/tasks/utpc2020_b"
+    },
+    {
+      "id": "utpc2020_c",
+      "label": "C",
+      "title": "Range Flip",
+      "url": "https://atcoder.jp/contests/utpc2020/tasks/utpc2020_c"
+    },
+    {
+      "id": "utpc2020_d",
+      "label": "D",
+      "title": "Idol Group Costume",
+      "url": "https://atcoder.jp/contests/utpc2020/tasks/utpc2020_d"
+    },
+    {
+      "id": "utpc2020_e",
+      "label": "E",
+      "title": "Sort Segments",
+      "url": "https://atcoder.jp/contests/utpc2020/tasks/utpc2020_e"
+    },
+    {
+      "id": "utpc2020_f",
+      "label": "F",
+      "title": "Save Your MP",
+      "url": "https://atcoder.jp/contests/utpc2020/tasks/utpc2020_f"
+    },
+    {
+      "id": "utpc2020_g",
+      "label": "G",
+      "title": "D. D. Construction",
+      "url": "https://atcoder.jp/contests/utpc2020/tasks/utpc2020_g"
+    },
+    {
+      "id": "utpc2020_h",
+      "label": "H",
+      "title": "Grid Eraser",
+      "url": "https://atcoder.jp/contests/utpc2020/tasks/utpc2020_h"
+    },
+    {
+      "id": "utpc2020_i",
+      "label": "I",
+      "title": "UTPC Kingdom",
+      "url": "https://atcoder.jp/contests/utpc2020/tasks/utpc2020_i"
+    },
+    {
+      "id": "utpc2020_j",
+      "label": "J",
+      "title": "Merge and Decrement",
+      "url": "https://atcoder.jp/contests/utpc2020/tasks/utpc2020_j"
+    },
+    {
+      "id": "utpc2020_k",
+      "label": "K",
+      "title": "Special Chopsticks",
+      "url": "https://atcoder.jp/contests/utpc2020/tasks/utpc2020_k"
+    },
+    {
+      "id": "utpc2020_l",
+      "label": "L",
+      "title": "Euclidean Distance Product",
+      "url": "https://atcoder.jp/contests/utpc2020/tasks/utpc2020_l"
+    },
+    {
+      "id": "utpc2020_m",
+      "label": "M",
+      "title": "Not Another Geometry Game!",
+      "url": "https://atcoder.jp/contests/utpc2020/tasks/utpc2020_m"
+    }
+  ]
+}
