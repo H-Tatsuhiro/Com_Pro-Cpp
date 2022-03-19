@@ -119,31 +119,56 @@
       "id": "math_and_algorithm_k",
       "label": "011",
       "title": "Print Prime Numbers",
-      "url": "https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_k"
+      "url": "https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_k",
+      "directory": {
+        "path": "011",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "math_and_algorithm_l",
       "label": "012",
       "title": "Primality Test",
-      "url": "https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_l"
+      "url": "https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_l",
+      "directory": {
+        "path": "012",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "math_and_algorithm_m",
       "label": "013",
       "title": "Divisor Enumeration",
-      "url": "https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_m"
+      "url": "https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_m",
+      "directory": {
+        "path": "013",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "math_and_algorithm_n",
       "label": "014",
       "title": "Factorization",
-      "url": "https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_n"
+      "url": "https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_n",
+      "directory": {
+        "path": "014",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "math_and_algorithm_o",
       "label": "015",
       "title": "Greatest Common Divisor",
-      "url": "https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_o"
+      "url": "https://atcoder.jp/contests/math-and-algorithm/tasks/math_and_algorithm_o",
+      "directory": {
+        "path": "015",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "math_and_algorithm_p",

@@ -31,7 +31,12 @@
       "id": "arc058_a",
       "label": "C",
       "title": "Iroha's Obsession",
-      "url": "https://atcoder.jp/contests/abc042/tasks/arc058_a"
+      "url": "https://atcoder.jp/contests/abc042/tasks/arc058_a",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "arc058_b",

@@ -9,7 +9,12 @@
       "id": "iroha2019_day3_a",
       "label": "A",
       "title": "宇宙人",
-      "url": "https://atcoder.jp/contests/iroha2019-day3/tasks/iroha2019_day3_a"
+      "url": "https://atcoder.jp/contests/iroha2019-day3/tasks/iroha2019_day3_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "iroha2019_day3_b",

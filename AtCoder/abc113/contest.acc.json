@@ -31,7 +31,12 @@
       "id": "abc113_c",
       "label": "C",
       "title": "ID",
-      "url": "https://atcoder.jp/contests/abc113/tasks/abc113_c"
+      "url": "https://atcoder.jp/contests/abc113/tasks/abc113_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc113_d",

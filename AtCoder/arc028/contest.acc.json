@@ -20,7 +20,12 @@
       "id": "arc028_2",
       "label": "B",
       "title": "特別賞",
-      "url": "https://atcoder.jp/contests/arc028/tasks/arc028_2"
+      "url": "https://atcoder.jp/contests/arc028/tasks/arc028_2",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "arc028_3",

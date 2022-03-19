@@ -31,7 +31,12 @@
       "id": "abc036_c",
       "label": "C",
       "title": "座圧",
-      "url": "https://atcoder.jp/contests/abc036/tasks/abc036_c"
+      "url": "https://atcoder.jp/contests/abc036/tasks/abc036_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc036_d",

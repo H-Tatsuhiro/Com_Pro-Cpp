@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "iroha2019-day4",
+    "title": "いろはちゃんコンテスト Day4",
+    "url": "https://atcoder.jp/contests/iroha2019-day4"
+  },
+  "tasks": [
+    {
+      "id": "iroha2019_day4_a",
+      "label": "A",
+      "title": "あるよるのできごと",
+      "url": "https://atcoder.jp/contests/iroha2019-day4/tasks/iroha2019_day4_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "iroha2019_day4_b",
+      "label": "B",
+      "title": "叫び声",
+      "url": "https://atcoder.jp/contests/iroha2019-day4/tasks/iroha2019_day4_b"
+    },
+    {
+      "id": "iroha2019_day4_c",
+      "label": "C",
+      "title": "君の力に",
+      "url": "https://atcoder.jp/contests/iroha2019-day4/tasks/iroha2019_day4_c"
+    },
+    {
+      "id": "iroha2019_day4_d",
+      "label": "D",
+      "title": "揺れる街、増える敵",
+      "url": "https://atcoder.jp/contests/iroha2019-day4/tasks/iroha2019_day4_d"
+    },
+    {
+      "id": "iroha2019_day4_e",
+      "label": "E",
+      "title": "芽生え",
+      "url": "https://atcoder.jp/contests/iroha2019-day4/tasks/iroha2019_day4_e"
+    },
+    {
+      "id": "iroha2019_day4_f",
+      "label": "F",
+      "title": "道なき道を",
+      "url": "https://atcoder.jp/contests/iroha2019-day4/tasks/iroha2019_day4_f"
+    },
+    {
+      "id": "iroha2019_day4_g",
+      "label": "G",
+      "title": "真実の魔法陣",
+      "url": "https://atcoder.jp/contests/iroha2019-day4/tasks/iroha2019_day4_g"
+    },
+    {
+      "id": "iroha2019_day4_h",
+      "label": "H",
+      "title": "永遠に",
+      "url": "https://atcoder.jp/contests/iroha2019-day4/tasks/iroha2019_day4_h"
+    },
+    {
+      "id": "iroha2019_day4_i",
+      "label": "I",
+      "title": "ピンチ",
+      "url": "https://atcoder.jp/contests/iroha2019-day4/tasks/iroha2019_day4_i"
+    },
+    {
+      "id": "iroha2019_day4_j",
+      "label": "J",
+      "title": "もう、諦めない",
+      "url": "https://atcoder.jp/contests/iroha2019-day4/tasks/iroha2019_day4_j"
+    },
+    {
+      "id": "iroha2019_day4_k",
+      "label": "K",
+      "title": "世界線",
+      "url": "https://atcoder.jp/contests/iroha2019-day4/tasks/iroha2019_day4_k"
+    },
+    {
+      "id": "iroha2019_day4_l",
+      "label": "L",
+      "title": "...好きです",
+      "url": "https://atcoder.jp/contests/iroha2019-day4/tasks/iroha2019_day4_l"
+    }
+  ]
+}
