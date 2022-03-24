@@ -31,7 +31,12 @@
       "id": "caddi2018_a",
       "label": "C",
       "title": "Product and GCD",
-      "url": "https://atcoder.jp/contests/caddi2018b/tasks/caddi2018_a"
+      "url": "https://atcoder.jp/contests/caddi2018b/tasks/caddi2018_a",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "caddi2018_b",
