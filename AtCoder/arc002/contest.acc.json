@@ -31,7 +31,12 @@
       "id": "arc002_3",
       "label": "C",
       "title": "コマンド入力",
-      "url": "https://atcoder.jp/contests/arc002/tasks/arc002_3"
+      "url": "https://atcoder.jp/contests/arc002/tasks/arc002_3",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "arc002_4",
