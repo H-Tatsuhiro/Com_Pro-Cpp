@@ -20,7 +20,12 @@
       "id": "arc009_2",
       "label": "B",
       "title": "おとぎの国の高橋君",
-      "url": "https://atcoder.jp/contests/arc009/tasks/arc009_2"
+      "url": "https://atcoder.jp/contests/arc009/tasks/arc009_2",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "arc009_3",
