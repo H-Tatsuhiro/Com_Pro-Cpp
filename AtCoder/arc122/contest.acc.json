@@ -9,7 +9,12 @@
       "id": "arc122_a",
       "label": "A",
       "title": "Many Formulae",
-      "url": "https://atcoder.jp/contests/arc122/tasks/arc122_a"
+      "url": "https://atcoder.jp/contests/arc122/tasks/arc122_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "arc122_b",
