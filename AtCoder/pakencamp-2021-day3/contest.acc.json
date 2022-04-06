@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": "pakencamp-2021-day3",
+    "title": "パ研合宿2021　第3日「パ研杯」",
+    "url": "https://atcoder.jp/contests/pakencamp-2021-day3"
+  },
+  "tasks": [
+    {
+      "id": "pakencamp_2021_day3_a",
+      "label": "A",
+      "title": "出欠確認",
+      "url": "https://atcoder.jp/contests/pakencamp-2021-day3/tasks/pakencamp_2021_day3_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "pakencamp_2021_day3_b",
+      "label": "B",
+      "title": "レートで2分割！",
+      "url": "https://atcoder.jp/contests/pakencamp-2021-day3/tasks/pakencamp_2021_day3_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "pakencamp_2021_day3_c",
+      "label": "C",
+      "title": "Sum of Digit Sum",
+      "url": "https://atcoder.jp/contests/pakencamp-2021-day3/tasks/pakencamp_2021_day3_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "pakencamp_2021_day3_d",
+      "label": "D",
+      "title": "試験作り",
+      "url": "https://atcoder.jp/contests/pakencamp-2021-day3/tasks/pakencamp_2021_day3_d"
+    },
+    {
+      "id": "pakencamp_2021_day3_e",
+      "label": "E",
+      "title": "お菓子",
+      "url": "https://atcoder.jp/contests/pakencamp-2021-day3/tasks/pakencamp_2021_day3_e"
+    },
+    {
+      "id": "pakencamp_2021_day3_f",
+      "label": "F",
+      "title": "ワープ",
+      "url": "https://atcoder.jp/contests/pakencamp-2021-day3/tasks/pakencamp_2021_day3_f"
+    },
+    {
+      "id": "pakencamp_2021_day3_g",
+      "label": "G",
+      "title": "旅人計画問題3",
+      "url": "https://atcoder.jp/contests/pakencamp-2021-day3/tasks/pakencamp_2021_day3_g"
+    },
+    {
+      "id": "pakencamp_2021_day3_h",
+      "label": "H",
+      "title": "パ研王国と貨物輸送",
+      "url": "https://atcoder.jp/contests/pakencamp-2021-day3/tasks/pakencamp_2021_day3_h"
+    }
+  ]
+}
