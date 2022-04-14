@@ -20,7 +20,12 @@
       "id": "dwango2016qual_b",
       "label": "B",
       "title": "積み鉛筆",
-      "url": "https://atcoder.jp/contests/dwango2016-prelims/tasks/dwango2016qual_b"
+      "url": "https://atcoder.jp/contests/dwango2016-prelims/tasks/dwango2016qual_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "dwango2016qual_c",
