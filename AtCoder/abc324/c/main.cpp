@@ -8,41 +8,28 @@ int main() {
     vector<string> s(n, "");
     for (int i = 0; i < n; i++) cin >> s[i];
     vector<int> ans;
+    vector<pair<int, int>> p(n, make_pair(0, 0));
     for (int i = 0; i < n; i++) {
-        string p = s[i];
+        for (int j = 0; j < t.size(); j++) {
+            if (s[i].size() < j || s[i][j] != t[j]) break;
+            p[i].first++;
+        }
+    }
+    reverse(t.begin(), t.end());
+    for (int i = 0; i < n; i++) {
+        reverse(s[i].begin(), s[i].end());
+        for (int j = 0; j < t.size(); j++) {
+            if (s[i].size() < j || s[i][j] != t[j]) break;
+            p[i].second++;
+        }
+    }
+    for (int i = 0; i < n; i++) {
+        int m = s[i].length(), c = p[i].first + p[i].second;
         bool f = false;
-        if (p == t) {
-            ans.push_back(i + 1);
-            continue;
-        }
-        for (int j = 0; j < p.length() + 1; j++) {
-            if (j != p.length()) {
-                string tmp = p;
-                tmp.erase(tmp.begin() + j);
-                if (tmp == t) {
-                    f = true;
-                    break;
-                }
-            }
-            for (char c = 'a'; c <= 'z'; c++) {
-                if (j != p.length()) {
-                    string tmp = p;
-                    tmp[j] = c;
-                    if (tmp == t) {
-                        f = true;
-                        break;
-                    }
-                }
-                string tmp = p;
-                string q{c};
-                tmp.insert(j, q);
-                if (tmp == t) {
-                    f = true;
-                    break;
-                }
-            }
-            if (f) break;
-        }
+        if (p[i].first == m && m == t.size()) f = true;
+        if (c >= m && m + 1 == t.size()) f = true;
+        if (c >= m - 1 && m - 1 == t.size()) f = true;
+        if (c == m - 1 && m == t.size()) f = true;
         if (f) ans.push_back(i + 1);
     }
     cout << ans.size() << endl;
