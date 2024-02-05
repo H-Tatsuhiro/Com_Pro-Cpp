@@ -1,0 +1,20 @@
+{
+  "contest": {
+    "id": "ahc026",
+    "title": "Toyota Programming Contest 2023#6（AtCoder Heuristic Contest 026）",
+    "url": "https://atcoder.jp/contests/ahc026"
+  },
+  "tasks": [
+    {
+      "id": "ahc026_a",
+      "label": "A",
+      "title": "Stack of Boxes",
+      "url": "https://atcoder.jp/contests/ahc026/tasks/ahc026_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

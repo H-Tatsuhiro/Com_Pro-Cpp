@@ -1,0 +1,20 @@
+{
+  "contest": {
+    "id": "ahc023",
+    "title": "10th Asprova Programming Contest（AtCoder Heuristic Contest 023）",
+    "url": "https://atcoder.jp/contests/ahc023"
+  },
+  "tasks": [
+    {
+      "id": "asprocon10_a",
+      "label": "A",
+      "title": "Crops on Grid",
+      "url": "https://atcoder.jp/contests/ahc023/tasks/asprocon10_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}
